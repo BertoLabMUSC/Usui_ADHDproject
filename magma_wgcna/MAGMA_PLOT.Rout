@@ -1,0 +1,92 @@
+
+R version 4.2.3 (2023-03-15) -- "Shortstop Beagle"
+Copyright (C) 2023 The R Foundation for Statistical Computing
+Platform: aarch64-apple-darwin20 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(ggplot2)
+> library(ggrepel)
+> library(ggpubr)
+> library(reshape2)
+> library(WGCNA)
+Loading required package: dynamicTreeCut
+Loading required package: fastcluster
+
+Attaching package: ‘fastcluster’
+
+The following object is masked from ‘package:stats’:
+
+    hclust
+
+
+
+Attaching package: ‘WGCNA’
+
+The following object is masked from ‘package:stats’:
+
+    cor
+
+> library(tidyverse)
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.3          ✔ readr     2.1.4     
+✔ forcats   1.0.0          ✔ stringr   1.5.0     
+✔ lubridate 1.9.2          ✔ tibble    3.2.1.9006
+✔ purrr     1.0.2          ✔ tidyr     1.3.0     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+> files=list.files(pattern="STATISTICS")
+> tmp=as.data.frame(lapply(files,read.table,sep="\t",header=T))
+> 
+> df <- tmp[-grep("z",tmp$Sample),]
+> #df <- melt(tmp)
+> df$log <- -log10(df$P)
+> 
+> df$log[df$log < 1.3] <- NA
+> 
+> 
+> df <- df %>% separate(VARIABLE, c("Cluster","Class"), "_",remove=FALSE)
+Warning message:
+Expected 2 pieces. Missing pieces filled with `NA` in 320 rows [1, 2, 3, 4, 5,
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, ...]. 
+> 
+> pdf("MAGMA_BUBBLE.pdf",width=7,height=3.5)
+> ggscatter(df, 
++                         x = "Sample",
++                         y = "VARIABLE",
++                         size="log",
++                         color="BETA",
++                         alpha = 0.8,
++                         xlab = "",ylab = "",) +
++                         theme_minimal() + 
++                         gradient_color("red")+
++                         rotate_x_text(angle = 45)+
++         coord_flip()+
++         scale_size(range = c(2, 8))
+Warning message:
+Removed 298 rows containing missing values or values outside the scale range
+(`geom_point()`). 
+> 
+> dev.off()
+null device 
+          1 
+> 
+> 
+> 
+> proc.time()
+   user  system elapsed 
+  2.401   0.150   2.543 
