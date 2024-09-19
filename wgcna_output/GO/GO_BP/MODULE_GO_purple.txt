@@ -1,0 +1,451 @@
+GOBPID	Pvalue	OddsRatio	ExpCount	Count	Size	Term	IDs	adj
+1	GO:0032788	0.000237835809220055	Inf	0.0309236622682749	2	2	saturated monocarboxylic acid metabolic process	Acot3;Acot5	0.0391810338482507
+2	GO:0032789	0.000237835809220055	Inf	0.0309236622682749	2	2	unsaturated monocarboxylic acid metabolic process	Acot3;Acot5	0.0391810338482507
+3	GO:0021957	0.000285396287220611	32.3297872340426	0.139156480207237	3	9	corticospinal tract morphogenesis	Bhlhe22;Cdh11;Zeb2	0.0391810338482507
+4	GO:0021955	0.000355599557048045	9.31413210445469	0.618473245365498	5	40	central nervous system neuron axonogenesis	Bhlhe22;Cdh11;Ephb2;Prkca;Zeb2	0.0391810338482507
+5	GO:0050896	0.000499842655573972	1.63419730383932	81.0509188051485	104	5242	response to stimulus	Agap3;Ak4;Akt1s1;Alas1;Anxa11;Aqp11;Arhgap21;Arhgef25;Arsb;Asph;Bcl6;Brf2;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Chrd;Cpeb1;Cpne4;Cpne6;Csnk2b;Dab1;Ddr2;Dgkd;Dlk2;Dock9;Dvl3;Eif4ebp1;Eif6;Elmo2;Emx2;Ephb2;Erc1;Evc2;Fat4;Fgf13;Gabra5;Gadd45b;Gdap2;Glp2r;Gna11;Golph3;Gpc4;Gpr22;Grp;Gstm2;Gtf2h5;Hmgb1;Hspa1b;Htr3a;Ifitm2;Itga4;Itga8;Itgbl1;Kctd6;Lurap1l;Map3k12;Map4k3;Mark4;Mas1;Mfap4;Mfhas1;Mmp24;Mpc2;Napepld;Nck2;Nefl;Neurod1;Npas1;Npr3;Nsmf;Numbl;Panx2;Parp1;Pfkl;Phldb2;Piezo1;Pla2g5;Plch2;Plekhg5;Plppr2;Prkca;Ptgs2;Rnf146;Rps6kb1;S100a10;Sgta;Sh3bp5;Sh3rf1;Smoc2;Src;Srgap3;Srl;Thra;Tmem109;Tnks1bp1;Topbp1;Trafd1;Trim2;Unc5a;Ythdf1;Zdhhc16;Zeb2;Zranb3	0.0391810338482507
+6	GO:0023052	0.00056402793742575	1.64958901573288	58.4147980247713	80	3778	signaling	Agap3;Akt1s1;Arhgap21;Arhgef25;Asph;Bcl6;Btbd9;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Cdh11;Chrd;Clstn2;Cpeb1;Csnk2b;Dab1;Ddr2;Dgkd;Dlk2;Dock9;Dvl3;Ehd3;Eif4ebp1;Ephb2;Erc1;Evc2;Fat4;Fgf13;Gabra5;Gadd45b;Glp2r;Gna11;Golph3;Gpc4;Gpr22;Grp;Hmgb1;Htr3a;Ifitm2;Itga4;Itga8;Itgbl1;Kcnn2;Kctd6;Lurap1l;Map3k12;Map4k3;Mark4;Mas1;Mfhas1;Mpc2;Nck2;Neurod1;Npr3;Nsmf;Numbl;Panx2;Parp1;Pfkl;Pla2g5;Plch2;Plekhg5;Plppr2;Ppfia2;Prkca;Ptgs2;Rnf146;Rps6kb1;Sh3bp5;Sh3rf1;Slc16a2;Smoc2;Src;Srgap3;Thra;Tmem109;Unc5a;Ythdf1;Zeb2	0.0391810338482507
+7	GO:0006413	0.00084983313908822	4.99113894139887	1.53072128227961	7	99	translational initiation	Eif4e2;Eif4ebp1;Eif6;Mtif3;Nck2;Rps6kb1;Ythdf1	0.0391810338482507
+8	GO:0021952	0.000971861111789241	10.3845989304813	0.448393102889986	4	29	central nervous system projection neuron axonogenesis	Bhlhe22;Cdh11;Ephb2;Zeb2	0.0391810338482507
+9	GO:0045595	0.000985344772058095	1.85513499736013	22.7907390917186	38	1474	regulation of cell differentiation	Ap2a2;Arsb;Bcl6;Cdh1;Chrd;Cpeb1;Cpne6;Dab1;Ddr2;Dlk2;Dvl3;Eif6;Ephb2;Fat4;Fgf13;Gna11;Grhl1;Hmgb1;Islr2;Lrp3;Mturn;Napepld;Nefl;Neurod1;Nsmf;Numbl;Parp1;Phldb2;Pla2g5;Ppfia2;Prkca;Ptgs2;S100a10;Sh3rf1;Thra;Ythdf1;Zeb2;Zfpm2	0.0391810338482507
+10	GO:0071214	0.00101549702962306	3.51886681556365	3.06144256455922	10	198	cellular response to abiotic stimulus	Agap3;Gna11;Gtf2h5;Mfap4;Nsmf;Parp1;Piezo1;Ptgs2;Tmem109;Tnks1bp1	0.0391810338482507
+11	GO:0104004	0.00101549702962306	3.51886681556365	3.06144256455922	10	198	cellular response to environmental stimulus	Agap3;Gna11;Gtf2h5;Mfap4;Nsmf;Parp1;Piezo1;Ptgs2;Tmem109;Tnks1bp1	0.0391810338482507
+12	GO:0022604	0.00104482756928668	2.5138183655425	7.29798429531288	17	472	regulation of cell morphogenesis	Cdc42ep5;Cdc42se1;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Islr2;Nefl;Nsmf;Numbl;Ppfia2;S100a10;Src;Strip1;Ythdf1;Zeb2	0.0391810338482507
+13	GO:0007154	0.00125253768017141	1.59329065227377	58.9250384521978	79	3811	cell communication	Agap3;Akt1s1;Arhgap21;Arhgef25;Asph;Bcl6;Btbd9;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Cdh11;Chrd;Clstn2;Cpeb1;Csnk2b;Dab1;Ddr2;Dgkd;Dlk2;Dock9;Dvl3;Eif4ebp1;Ephb2;Erc1;Evc2;Fat4;Fgf13;Gabra5;Gadd45b;Glp2r;Gna11;Golph3;Gpc4;Gpr22;Grp;Hmgb1;Htr3a;Ifitm2;Itga4;Itga8;Itgbl1;Kcnn2;Kctd6;Lurap1l;Map3k12;Map4k3;Mark4;Mas1;Mfhas1;Mpc2;Nck2;Neurod1;Npr3;Nsmf;Numbl;Panx2;Parp1;Pfkl;Pla2g5;Plch2;Plekhg5;Plppr2;Ppfia2;Prkca;Ptgs2;Rnf146;Rps6kb1;Sh3bp5;Sh3rf1;Slc16a2;Smoc2;Src;Srgap3;Thra;Tmem109;Unc5a;Ythdf1;Zeb2	0.0404451909488357
+14	GO:0050793	0.00125829482951933	1.72612841703751	31.3565935400308	48	2028	regulation of developmental process	Ap2a2;Arsb;Bcl6;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Chrd;Clstn2;Cpeb1;Cpne6;Dab1;Ddr2;Dlk2;Dvl3;Eif6;Ephb2;Fat4;Fgf13;Gna11;Gpc4;Grhl1;Hmgb1;Islr2;Lrp3;Mgp;Mturn;Napepld;Nefl;Neurod1;Nsmf;Numbl;Parp1;Phldb2;Pla2g5;Ppfia2;Prkca;Ptgs2;Rps6kb1;S100a10;Sh3rf1;Smoc2;Src;Strip1;Thra;Ythdf1;Zeb2;Zfpm2	0.0404451909488357
+15	GO:0034137	0.00139806538385982	64.3386243386243	0.0618473245365498	2	4	positive regulation of toll-like receptor 2 signaling pathway	Hmgb1;Mfhas1	0.0411132620531135
+16	GO:0051094	0.00155681687873835	1.91016741071429	17.7965676353922	31	1151	positive regulation of developmental process	Arsb;Bcl6;Ccbe1;Clstn2;Cpeb1;Cpne6;Dab1;Ddr2;Dvl3;Ephb2;Hmgb1;Islr2;Lrp3;Mturn;Napepld;Nefl;Neurod1;Nsmf;Numbl;Parp1;Phldb2;Pla2g5;Prkca;Ptgs2;Rps6kb1;S100a10;Smoc2;Src;Thra;Zeb2;Zfpm2	0.0411132620531135
+17	GO:0006690	0.00183088123312631	6.26033912324235	0.881324374645835	5	57	icosanoid metabolic process	Gstm2;Lypla2;Pla2g5;Ptges2;Ptgs2	0.0411132620531135
+18	GO:0006692	0.00199328665585812	8.37053648438848	0.541164089694811	4	35	prostanoid metabolic process	Gstm2;Lypla2;Ptges2;Ptgs2	0.0411132620531135
+19	GO:0006693	0.00199328665585812	8.37053648438848	0.541164089694811	4	35	prostaglandin metabolic process	Gstm2;Lypla2;Ptges2;Ptgs2	0.0411132620531135
+20	GO:0051716	0.00206701687755786	1.5419995984742	69.3308508054724	89	4484	cellular response to stimulus	Agap3;Ak4;Akt1s1;Aqp11;Arhgap21;Arhgef25;Asph;Bcl6;Brf2;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Chrd;Cpeb1;Cpne4;Cpne6;Csnk2b;Dab1;Ddr2;Dgkd;Dlk2;Dock9;Dvl3;Eif4ebp1;Elmo2;Ephb2;Erc1;Evc2;Fat4;Fgf13;Gabra5;Gadd45b;Glp2r;Gna11;Golph3;Gpc4;Gpr22;Grp;Gstm2;Gtf2h5;Hmgb1;Hspa1b;Htr3a;Ifitm2;Itga4;Itga8;Itgbl1;Kctd6;Lurap1l;Map3k12;Map4k3;Mark4;Mas1;Mfap4;Mfhas1;Mpc2;Nck2;Nefl;Neurod1;Npr3;Nsmf;Numbl;Parp1;Piezo1;Pla2g5;Plch2;Plekhg5;Plppr2;Prkca;Ptgs2;Rnf146;Rps6kb1;S100a10;Sgta;Sh3bp5;Sh3rf1;Smoc2;Src;Srgap3;Thra;Tmem109;Tnks1bp1;Topbp1;Trim2;Unc5a;Zdhhc16;Zeb2;Zranb3	0.0411132620531135
+21	GO:0099171	0.00210889869876184	13.8465045592705	0.262851129280337	3	17	presynaptic modulation of chemical synaptic transmission	Erc1;Plekhg5;Prkca	0.0411132620531135
+22	GO:0021766	0.0023008261697629	5.91739980449658	0.927709868048247	5	60	hippocampus development	Dab1;Emx2;Fgf13;Neurod1;Zeb2	0.0411132620531135
+23	GO:0034135	0.00230639657500953	42.8888888888889	0.0773091556706873	2	5	regulation of toll-like receptor 2 signaling pathway	Hmgb1;Mfhas1	0.0411132620531135
+24	GO:1900748	0.00230639657500953	42.8888888888889	0.0773091556706873	2	5	positive regulation of vascular endothelial growth factor signaling pathway	Ccbe1;Smoc2	0.0411132620531135
+25	GO:0009628	0.00237230449396991	2.07793815453938	11.4262932081276	22	739	response to abiotic stimulus	Agap3;Ak4;Alas1;Arsb;Cpeb1;Eif4ebp1;Gna11;Gtf2h5;Hspa1b;Map4k3;Mfap4;Mmp24;Nsmf;Parp1;Piezo1;Prkca;Ptgs2;Thra;Tmem109;Tnks1bp1;Topbp1;Zranb3	0.0411132620531135
+26	GO:0007254	0.00238767632284059	3.67427108410715	2.33473650125476	8	151	JNK cascade	Cdc42ep5;Cdc42se1;Dvl3;Gadd45b;Map3k12;Mfhas1;Sh3rf1;Zeb2	0.0411132620531135
+27	GO:0050789	0.00246679572318681	1.56682196035444	114.91232898891	134	7432	regulation of biological process	2700081O15Rik;Agap3;Ak4;Akt1s1;Ap2a2;Aqp11;Arhgap21;Arhgef25;Arsb;Asph;Bcl6;Bhlha9;Bhlhe22;Bmyc;Bod1;Brf2;Btbd9;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Cdh11;Chrd;Clstn2;Cpeb1;Cpne6;Csnk2b;Dab1;Ddr2;Dgkd;Dlk2;Dock9;Dvl3;Ehd3;Eif4e2;Eif4ebp1;Eif6;Emx2;Ephb2;Erc1;Evc2;Fam220a;Fat4;Fgf13;Gabra5;Gadd45b;Glp2r;Glyr1;Gna11;Golph3;Gpc4;Gpr22;Grhl1;Grp;Gtf2h5;Hmgb1;Hsd11b1;Hspa1b;Htr3a;Ifitm2;Islr2;Itga4;Itga8;Itgbl1;Jazf1;Kcnab2;Kcnn2;Kctd6;Lrp3;Lurap1l;Map3k12;Map4k3;Mark4;Mas1;Med10;Mfap4;Mfhas1;Mgp;Mpc2;Mphosph10;Mturn;Napepld;Nck2;Nefl;Neurod1;Npas1;Npr3;Nsmf;Numbl;Osgin2;Panx2;Parp1;Pfkl;Phldb2;Piezo1;Pla2g5;Plch2;Plekhg5;Plppr2;Ppfia2;Prkca;Psmc3;Ptges2;Ptgs2;Rab3ip;Rnf146;Rps6kb1;S100a10;Sgta;Sh3bp5;Sh3rf1;Slc16a2;Slc26a4;Smoc2;Src;Srgap3;Srl;Strip1;Thra;Tmed9;Tmem109;Tnks1bp1;Topbp1;Trafd1;Trim2;Unc5a;Vgll3;Wdr73;Wrap73;Ythdf1;Zbtb8b;Zeb2;Zfpm2;Zranb3	0.0411132620531135
+28	GO:0065007	0.00288161613092746	1.57159751724969	120.571359184004	139	7798	biological regulation	2700081O15Rik;Agap3;Ak4;Akt1s1;Alas1;Ap2a2;Aqp11;Arhgap21;Arhgef25;Arsb;Asph;Bcl6;Bhlha9;Bhlhe22;Bmyc;Bod1;Brf2;Btbd9;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Cdh11;Chrd;Chst8;Clstn2;Cpeb1;Cpne6;Csnk2b;Dab1;Ddr2;Dgkd;Dlk2;Dock9;Dvl3;Ehd3;Eif4e2;Eif4ebp1;Eif6;Emx2;Ephb2;Erc1;Evc2;Fam220a;Fat4;Fgf13;Gabra5;Gadd45b;Glp2r;Glyr1;Gna11;Golph3;Gpc4;Gpr22;Grhl1;Grp;Gtf2h5;Hmgb1;Hsd11b1;Hspa1b;Htr3a;Ifitm2;Islr2;Itga4;Itga8;Itgbl1;Jazf1;Kcnab2;Kcnn2;Kctd6;Lrp3;Lurap1l;Map3k12;Map4k3;Mark4;Mas1;Mcur1;Med10;Mfap4;Mfhas1;Mgp;Mpc2;Mphosph10;Mturn;Napepld;Nck2;Nefl;Neurod1;Npas1;Npr3;Nsmf;Numbl;Osgin2;Panx2;Parp1;Pfkl;Phldb2;Piezo1;Pla2g5;Plch2;Plekhg5;Plppr2;Ppfia2;Prkca;Psmc3;Ptges2;Ptgs2;Rab3ip;Rnf146;Rps6kb1;S100a10;Serinc2;Sgta;Sh3bp5;Sh3rf1;Slc16a2;Slc26a4;Slc35g1;Smoc2;Src;Srgap3;Srl;Strip1;Thra;Tmed9;Tmem109;Tnks1bp1;Topbp1;Trafd1;Trim2;Unc5a;Vgll3;Wdr73;Wrap73;Ythdf1;Zbtb8b;Zeb2;Zfpm2;Zranb3	0.041648494602183
+29	GO:0022038	0.00293766062844625	12.1136968085106	0.293774791548612	3	19	corpus callosum development	Bhlhe22;Ephb2;Zeb2	0.041648494602183
+30	GO:0098742	0.00303824242983702	3.52455348956614	2.42750748805958	8	157	cell-cell adhesion via plasma-membrane adhesion molecules	Cdh1;Cdh11;Clstn2;Dab1;Fat4;Gpc4;Itga4;Mmp24	0.041648494602183
+31	GO:0022603	0.00309915726385695	1.96719604269721	13.1734801262851	24	852	regulation of anatomical structure morphogenesis	Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Hmgb1;Islr2;Nefl;Nsmf;Numbl;Phldb2;Ppfia2;Prkca;Ptgs2;S100a10;Smoc2;Src;Strip1;Ythdf1;Zeb2	0.041648494602183
+32	GO:0010631	0.00316989339898117	2.98517537061573	3.57168299198575	10	231	epithelial cell migration	Arsb;Ccbe1;Csnk2b;Hmgb1;Plekhg5;Prkca;Ptgs2;Smoc2;Src;Zeb2	0.041648494602183
+33	GO:0090130	0.00316989339898117	2.98517537061573	3.57168299198575	10	231	tissue migration	Arsb;Ccbe1;Csnk2b;Hmgb1;Plekhg5;Prkca;Ptgs2;Smoc2;Src;Zeb2	0.041648494602183
+34	GO:0090132	0.00316989339898117	2.98517537061573	3.57168299198575	10	231	epithelium migration	Arsb;Ccbe1;Csnk2b;Hmgb1;Plekhg5;Prkca;Ptgs2;Smoc2;Src;Zeb2	0.041648494602183
+35	GO:0050804	0.0033210062529245	2.29473942366646	7.45260260665425	16	482	modulation of chemical synaptic transmission	Btbd9;Cdh1;Cdh11;Clstn2;Cpeb1;Csnk2b;Ephb2;Erc1;Kcnn2;Nsmf;Plekhg5;Ppfia2;Prkca;Ptgs2;Src;Ythdf1	0.041648494602183
+36	GO:0099177	0.00338883138612279	2.28962985622515	7.46806443778839	16	483	regulation of trans-synaptic signaling	Btbd9;Cdh1;Cdh11;Clstn2;Cpeb1;Csnk2b;Ephb2;Erc1;Kcnn2;Nsmf;Plekhg5;Ppfia2;Prkca;Ptgs2;Src;Ythdf1	0.041648494602183
+37	GO:0021796	0.00342443177840171	32.1640211640212	0.0927709868048247	2	6	cerebral cortex regionalization	Bhlhe22;Emx2	0.041648494602183
+38	GO:0007160	0.00396336853323166	3.36443883984868	2.53574030599854	8	164	cell-matrix adhesion	Bcl6;Itga4;Itga8;Itgbl1;Msln;Phldb2;S100a10;Src	0.0416917398498075
+39	GO:0000902	0.00400896946111984	1.89819681410205	14.2094228122723	25	919	cell morphogenesis	Bcl6;Bhlhe22;Cdc42ep5;Cdc42se1;Cdh1;Cdh11;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Islr2;Itga4;Itga8;Nefl;Nsmf;Numbl;Ppfia2;Prkca;S100a10;Src;Strip1;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+40	GO:0032269	0.00402215907895625	1.98078106508876	11.9365336355541	22	772	negative regulation of cellular protein metabolic process	Akt1s1;Aqp11;Bod1;Cdc42se1;Cdh1;Cpeb1;Eif4e2;Eif4ebp1;Eif6;Ephb2;Gadd45b;Hspa1b;Mas1;Mfhas1;Nck2;Prkca;Ptgs2;Sgta;Sh3bp5;Sh3rf1;Src;Ythdf1	0.0416917398498075
+41	GO:0021543	0.00404441552031157	3.72362142099682	2.01003804743787	7	130	pallium development	Bhlhe22;Dab1;Emx2;Fat4;Fgf13;Neurod1;Zeb2	0.0416917398498075
+42	GO:0045597	0.00446391644834186	1.90532884992032	13.5600259046385	24	877	positive regulation of cell differentiation	Arsb;Bcl6;Cpeb1;Cpne6;Dab1;Ddr2;Dvl3;Ephb2;Hmgb1;Islr2;Lrp3;Mturn;Napepld;Nefl;Neurod1;Nsmf;Numbl;Parp1;Pla2g5;Prkca;Ptgs2;S100a10;Thra;Zeb2	0.0416917398498075
+43	GO:0051123	0.0045125594214908	10.1984882418813	0.340160284951024	3	22	RNA polymerase II preinitiation complex assembly	Brf2;Psmc3;Thra	0.0416917398498075
+44	GO:0002934	0.00474553701881724	25.7291005291005	0.108232817938962	2	7	desmosome organization	Grhl1;Prkca	0.0416917398498075
+45	GO:0045634	0.00474553701881724	25.7291005291005	0.108232817938962	2	7	regulation of melanocyte differentiation	Gna11;Zeb2	0.0416917398498075
+46	GO:0061732	0.00474553701881724	25.7291005291005	0.108232817938962	2	7	mitochondrial acetyl-CoA biosynthetic process from pyruvate	Mpc2;Pdha1	0.0416917398498075
+47	GO:2000194	0.00474553701881724	25.7291005291005	0.108232817938962	2	7	regulation of female gonad development	Src;Zfpm2	0.0416917398498075
+48	GO:0046330	0.00475241589194124	4.11960170697013	1.56164494454788	6	101	positive regulation of JNK cascade	Dvl3;Gadd45b;Map3k12;Mfhas1;Sh3rf1;Zeb2	0.0416917398498075
+49	GO:0016477	0.00479920221369863	1.80660903513664	16.760624949405	28	1084	cell migration	Arsb;Ccbe1;Cdh1;Chrd;Cpeb1;Csnk2b;Dab1;Ddr2;Elmo2;Emx2;Fgf13;Golph3;Gpc4;Hmgb1;Itga4;Itgbl1;Nck2;Nsmf;Phldb2;Plekhg5;Prkca;Ptgs2;Rps6kb1;Sh3rf1;Smoc2;Src;Srgap3;Zeb2	0.0416917398498075
+50	GO:0021537	0.00521116809925937	2.95763736263736	3.23152270703473	9	209	telencephalon development	Bhlhe22;Dab1;Emx2;Ephb2;Fat4;Fgf13;Neurod1;Numbl;Zeb2	0.0416917398498075
+51	GO:0040011	0.0057924467128304	1.71700084777508	20.2240751234518	32	1308	locomotion	Arsb;Ccbe1;Cdh1;Chrd;Cpeb1;Csnk2b;Dab1;Ddr2;Elmo2;Emx2;Ephb2;Fgf13;Golph3;Gpc4;Hmgb1;Itga4;Itgbl1;Nck2;Nefl;Nsmf;Phldb2;Plekhg5;Prkca;Ptgs2;Rps6kb1;Sh3rf1;Smoc2;Src;Srgap3;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+52	GO:0021761	0.00603930786062265	4.64362519201229	1.15963733506031	5	75	limbic system development	Dab1;Emx2;Fgf13;Neurod1;Zeb2	0.0416917398498075
+53	GO:1901568	0.00603930786062265	4.64362519201229	1.15963733506031	5	75	fatty acid derivative metabolic process	Gstm2;Lypla2;Pla2g5;Ptges2;Ptgs2	0.0416917398498075
+54	GO:0001667	0.00604225946736233	2.44941030415891	5.19517526107019	12	336	ameboidal-type cell migration	Arsb;Ccbe1;Csnk2b;Ddr2;Hmgb1;Itga4;Plekhg5;Prkca;Ptgs2;Smoc2;Src;Zeb2	0.0416917398498075
+55	GO:0021540	0.0062632314792919	21.4391534391534	0.1236946490731	2	8	corpus callosum morphogenesis	Bhlhe22;Zeb2	0.0416917398498075
+56	GO:1905941	0.0062632314792919	21.4391534391534	0.1236946490731	2	8	positive regulation of gonad development	Src;Zfpm2	0.0416917398498075
+57	GO:0046328	0.00628291011371207	3.41482803374432	2.18011818991338	7	141	regulation of JNK cascade	Cdc42se1;Dvl3;Gadd45b;Map3k12;Mfhas1;Sh3rf1;Zeb2	0.0416917398498075
+58	GO:0035767	0.00651460446232089	8.80560928433269	0.386545778353436	3	25	endothelial cell chemotaxis	Hmgb1;Plekhg5;Smoc2	0.0416917398498075
+59	GO:0070897	0.00728160459414958	8.42206290471785	0.402007609487574	3	26	transcription preinitiation complex assembly	Brf2;Psmc3;Thra	0.0416917398498075
+60	GO:0048839	0.00729118340933386	3.31474480151229	2.24196551444993	7	145	inner ear development	Cdh1;Dvl3;Ephb2;Fat4;Gabra5;Itga8;Neurod1	0.0416917398498075
+61	GO:0051248	0.00752449831965896	1.8663154674407	12.601392374322	22	815	negative regulation of protein metabolic process	Akt1s1;Aqp11;Bod1;Cdc42se1;Cdh1;Cpeb1;Eif4e2;Eif4ebp1;Eif6;Ephb2;Gadd45b;Hspa1b;Mas1;Mfhas1;Nck2;Prkca;Ptgs2;Sgta;Sh3bp5;Sh3rf1;Src;Ythdf1	0.0416917398498075
+62	GO:0120039	0.00767508638998726	1.99447847467863	9.60179713429936	18	621	plasma membrane bounded cell projection morphogenesis	Bhlhe22;Cdh11;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Islr2;Itga4;Nefl;Nsmf;Numbl;Ppfia2;Prkca;Src;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+63	GO:0007165	0.00789541156890675	1.47114824549811	52.415607544726	68	3390	signal transduction	Agap3;Akt1s1;Arhgap21;Arhgef25;Asph;Bcl6;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Chrd;Csnk2b;Dab1;Ddr2;Dgkd;Dlk2;Dock9;Dvl3;Eif4ebp1;Ephb2;Erc1;Evc2;Fat4;Fgf13;Gabra5;Gadd45b;Glp2r;Gna11;Golph3;Gpc4;Gpr22;Grp;Hmgb1;Htr3a;Ifitm2;Itga4;Itga8;Itgbl1;Kctd6;Lurap1l;Map3k12;Map4k3;Mark4;Mas1;Mfhas1;Nck2;Neurod1;Npr3;Nsmf;Numbl;Parp1;Pla2g5;Plch2;Plekhg5;Plppr2;Prkca;Ptgs2;Rnf146;Rps6kb1;Sh3bp5;Sh3rf1;Smoc2;Src;Srgap3;Thra;Tmem109;Unc5a;Zeb2	0.0416917398498075
+64	GO:0006928	0.00792507492400598	1.64074960127592	23.1618230389379	35	1498	movement of cell or subcellular component	Arhgap21;Arsb;Bcl6;Ccbe1;Cdh1;Chrd;Cpeb1;Csnk2b;Dab1;Ddr2;Elmo2;Emx2;Ephb2;Fgf13;Golph3;Gpc4;Hmgb1;Itga4;Itgbl1;Kcnn2;Nck2;Nefl;Nsmf;Phldb2;Plekhg5;Prkca;Ptgs2;Rps6kb1;Sh3rf1;Smoc2;Src;Srgap3;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+65	GO:0051130	0.00795392017691672	1.76655713764148	15.8019914190885	26	1022	positive regulation of cellular component organization	Arsb;Bcl6;Cdc42ep5;Clstn2;Cpeb1;Cpne6;Ddr2;Dgkd;Dvl3;Ephb2;Glyr1;Islr2;Mark4;Nck2;Nefl;Numbl;Phldb2;Piezo1;Pla2g5;Prkca;Psmc3;S100a10;Src;Tmed9;Wrap73;Zeb2	0.0416917398498075
+66	GO:0034134	0.00797118439131227	18.3749055177627	0.139156480207237	2	9	toll-like receptor 2 signaling pathway	Hmgb1;Mfhas1	0.0416917398498075
+67	GO:0050932	0.00797118439131227	18.3749055177627	0.139156480207237	2	9	regulation of pigment cell differentiation	Gna11;Zeb2	0.0416917398498075
+68	GO:0021846	0.0080998490291533	8.07047872340426	0.417469440621711	3	27	cell proliferation in forebrain	Emx2;Numbl;Zeb2	0.0416917398498075
+69	GO:0030900	0.00824145299845888	2.44981231231231	4.7467821581802	11	307	forebrain development	Bhlhe22;Chrd;Dab1;Emx2;Ephb2;Fat4;Fgf13;Neurod1;Numbl;Src;Zeb2	0.0416917398498075
+70	GO:0006796	0.00826505390850811	1.53869271224643	34.41803610459	48	2226	phosphate-containing compound metabolic process	Acot3;Acot5;Ak4;Akt1s1;Bod1;Cdc42ep5;Cdc42se1;Cox6a1;Csnk2b;Dab1;Ddr2;Dgkd;Dvl3;Eif6;Ephb2;Erc1;Fam220a;Fgf13;Gadd45b;Gtf2h5;Hmgb1;Hsd11b1;Map3k12;Map4k3;Mark4;Mas1;Mfhas1;Mpc2;Mphosph10;Napepld;Nck2;Nsmf;Parp1;Pcyt1b;Pdha1;Pfkl;Pla2g5;Plch2;Plppr2;Prkca;Ptgs2;Rps6kb1;Serinc2;Sh3bp5;Sh3rf1;Src;Tnks1bp1;Zeb2	0.0416917398498075
+71	GO:0048858	0.00830516399514929	1.97722087009431	9.67910628997005	18	626	cell projection morphogenesis	Bhlhe22;Cdh11;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Islr2;Itga4;Nefl;Nsmf;Numbl;Ppfia2;Prkca;Src;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+72	GO:0098609	0.00841836552659549	2.06352159468439	8.22569416336113	16	532	cell-cell adhesion	Bcl6;Cdh1;Cdh11;Cdsn;Clstn2;Dab1;Elmo2;Fat4;Golph3;Gpc4;Itga4;Mmp24;Nck2;Piezo1;Prkca;Src	0.0416917398498075
+73	GO:0007268	0.0084360642485621	1.97380335430963	9.69456812110418	18	627	chemical synaptic transmission	Btbd9;Cdh1;Cdh11;Clstn2;Cpeb1;Csnk2b;Ephb2;Erc1;Gabra5;Htr3a;Kcnn2;Nsmf;Plekhg5;Ppfia2;Prkca;Ptgs2;Src;Ythdf1	0.0416917398498075
+74	GO:0098916	0.0084360642485621	1.97380335430963	9.69456812110418	18	627	anterograde trans-synaptic signaling	Btbd9;Cdh1;Cdh11;Clstn2;Cpeb1;Csnk2b;Ephb2;Erc1;Gabra5;Htr3a;Kcnn2;Nsmf;Plekhg5;Ppfia2;Prkca;Ptgs2;Src;Ythdf1	0.0416917398498075
+75	GO:0050794	0.00849690490252548	1.45400208363015	110.490245284546	127	7146	regulation of cellular process	2700081O15Rik;Agap3;Ak4;Akt1s1;Ap2a2;Aqp11;Arhgap21;Arhgef25;Arsb;Asph;Bcl6;Bhlha9;Bhlhe22;Bmyc;Bod1;Brf2;Btbd9;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Cdh11;Chrd;Clstn2;Cpeb1;Cpne6;Csnk2b;Dab1;Ddr2;Dgkd;Dlk2;Dock9;Dvl3;Ehd3;Eif4e2;Eif4ebp1;Eif6;Emx2;Ephb2;Erc1;Evc2;Fam220a;Fat4;Fgf13;Gabra5;Gadd45b;Glp2r;Glyr1;Gna11;Golph3;Gpc4;Gpr22;Grhl1;Grp;Gtf2h5;Hmgb1;Hsd11b1;Hspa1b;Htr3a;Ifitm2;Islr2;Itga4;Itga8;Itgbl1;Jazf1;Kcnab2;Kcnn2;Kctd6;Lrp3;Lurap1l;Map3k12;Map4k3;Mark4;Mas1;Med10;Mfhas1;Mpc2;Mphosph10;Mturn;Napepld;Nck2;Nefl;Neurod1;Npas1;Npr3;Nsmf;Numbl;Osgin2;Parp1;Pfkl;Phldb2;Piezo1;Pla2g5;Plch2;Plekhg5;Plppr2;Ppfia2;Prkca;Psmc3;Ptges2;Ptgs2;Rab3ip;Rnf146;Rps6kb1;S100a10;Sgta;Sh3bp5;Sh3rf1;Slc16a2;Smoc2;Src;Srgap3;Thra;Tmed9;Tmem109;Tnks1bp1;Topbp1;Trim2;Unc5a;Vgll3;Wdr73;Wrap73;Ythdf1;Zbtb8b;Zeb2;Zfpm2;Zranb3	0.0416917398498075
+76	GO:0000904	0.00931652273565921	1.91589498053246	10.5449688334817	19	682	cell morphogenesis involved in differentiation	Bhlhe22;Cdh1;Cdh11;Dab1;Ephb2;Fgf13;Islr2;Itga4;Itga8;Nefl;Nsmf;Numbl;Ppfia2;Prkca;S100a10;Src;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+77	GO:0006793	0.00943923096447594	1.52502374562539	34.6654254027362	48	2242	phosphorus metabolic process	Acot3;Acot5;Ak4;Akt1s1;Bod1;Cdc42ep5;Cdc42se1;Cox6a1;Csnk2b;Dab1;Ddr2;Dgkd;Dvl3;Eif6;Ephb2;Erc1;Fam220a;Fgf13;Gadd45b;Gtf2h5;Hmgb1;Hsd11b1;Map3k12;Map4k3;Mark4;Mas1;Mfhas1;Mpc2;Mphosph10;Napepld;Nck2;Nsmf;Parp1;Pcyt1b;Pdha1;Pfkl;Pla2g5;Plch2;Plppr2;Prkca;Ptgs2;Rps6kb1;Serinc2;Sh3bp5;Sh3rf1;Src;Tnks1bp1;Zeb2	0.0416917398498075
+78	GO:0061041	0.00966899848516346	4.11154212603784	1.29879381526755	5	84	regulation of wound healing	Ephb2;Hmgb1;Phldb2;Prkca;Smoc2	0.0416917398498075
+79	GO:0099537	0.00969081160388782	1.94354340872103	9.83372460131142	18	636	trans-synaptic signaling	Btbd9;Cdh1;Cdh11;Clstn2;Cpeb1;Csnk2b;Ephb2;Erc1;Gabra5;Htr3a;Kcnn2;Nsmf;Plekhg5;Ppfia2;Prkca;Ptgs2;Src;Ythdf1	0.0416917398498075
+80	GO:0043471	0.00986321198377086	16.0767195767196	0.154618311341375	2	10	regulation of cellular carbohydrate catabolic process	Hmgb1;Hsd11b1	0.0416917398498075
+81	GO:0060576	0.00986321198377086	16.0767195767196	0.154618311341375	2	10	intestinal epithelial cell development	Cdh1;Src	0.0416917398498075
+82	GO:0046456	0.0098929452642139	7.44844517184943	0.448393102889986	3	29	icosanoid biosynthetic process	Pla2g5;Ptges2;Ptgs2	0.0416917398498075
+83	GO:0021954	0.0101477892610098	4.05981182795699	1.31425564640168	5	85	central nervous system neuron development	Bhlhe22;Cdh11;Ephb2;Prkca;Zeb2	0.0416917398498075
+84	GO:0001676	0.0102229461824041	5.0795847750865	0.85040071237756	4	55	long-chain fatty acid metabolic process	Acot3;Acot5;Gstm2;Ptgs2	0.0416917398498075
+85	GO:0071478	0.0103720726859133	3.45821573786176	1.83995790496236	6	119	cellular response to radiation	Agap3;Gtf2h5;Mfap4;Parp1;Tmem109;Tnks1bp1	0.0416917398498075
+86	GO:0017148	0.010781654371623	3.4275960170697	1.85541973609649	6	120	negative regulation of translation	Cpeb1;Eif4e2;Eif4ebp1;Eif6;Prkca;Ythdf1	0.0416917398498075
+87	GO:0033559	0.0108792375446986	4.98148909913616	0.865862543511698	4	56	unsaturated fatty acid metabolic process	Gstm2;Lypla2;Ptges2;Ptgs2	0.0416917398498075
+88	GO:0032990	0.0112564872953493	1.91093847796473	9.9883429126528	18	646	cell part morphogenesis	Bhlhe22;Cdh11;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Islr2;Itga4;Nefl;Nsmf;Numbl;Ppfia2;Prkca;Src;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+89	GO:0010769	0.0112755496965584	2.33641577060932	4.96324779405812	11	321	regulation of cell morphogenesis involved in differentiation	Dab1;Ephb2;Fgf13;Islr2;Nefl;Nsmf;Numbl;Ppfia2;S100a10;Ythdf1;Zeb2	0.0416917398498075
+90	GO:0007409	0.0117189243084574	2.15312156796486	6.37027442726463	13	412	axonogenesis	Bhlhe22;Cdh11;Dab1;Ephb2;Fgf13;Islr2;Itga4;Nefl;Numbl;Prkca;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+91	GO:0051403	0.0118707767091092	2.75455852746621	3.06144256455922	8	198	stress-activated MAPK cascade	Cdc42ep5;Cdc42se1;Dvl3;Gadd45b;Map3k12;Mfhas1;Sh3rf1;Zeb2	0.0416917398498075
+92	GO:0001953	0.0118989332866379	6.915273556231	0.479316765158261	3	31	negative regulation of cell-matrix adhesion	Bcl6;Phldb2;Src	0.0416917398498075
+93	GO:0006086	0.0119332744896214	14.289241622575	0.170080142475512	2	11	acetyl-CoA biosynthetic process from pyruvate	Mpc2;Pdha1	0.0416917398498075
+94	GO:0050930	0.0119332744896214	14.289241622575	0.170080142475512	2	11	induction of positive chemotaxis	Hmgb1;Prkca	0.0416917398498075
+95	GO:0120035	0.0122346086833892	1.85944213326059	10.8387436250304	19	701	regulation of plasma membrane bounded cell projection organization	Arsb;Cdc42ep5;Cpeb1;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Islr2;Mark4;Nefl;Nsmf;Numbl;Ppfia2;Rab3ip;Src;Wrap73;Ythdf1;Zeb2	0.0416917398498075
+96	GO:0006446	0.0122720032003454	4.7961972667855	0.896786205779972	4	58	regulation of translational initiation	Eif4ebp1;Nck2;Rps6kb1;Ythdf1	0.0416917398498075
+97	GO:0032874	0.0125350016609711	3.31030691708658	1.91726706063304	6	124	positive regulation of stress-activated MAPK cascade	Dvl3;Gadd45b;Map3k12;Mfhas1;Sh3rf1;Zeb2	0.0416917398498075
+98	GO:0048870	0.012745376975474	1.66083306425573	18.0594187646726	28	1168	cell motility	Arsb;Ccbe1;Cdh1;Chrd;Cpeb1;Csnk2b;Dab1;Ddr2;Elmo2;Emx2;Fgf13;Golph3;Gpc4;Hmgb1;Itga4;Itgbl1;Nck2;Nsmf;Phldb2;Plekhg5;Prkca;Ptgs2;Rps6kb1;Sh3rf1;Smoc2;Src;Srgap3;Zeb2	0.0416917398498075
+99	GO:0051674	0.012745376975474	1.66083306425573	18.0594187646726	28	1168	localization of cell	Arsb;Ccbe1;Cdh1;Chrd;Cpeb1;Csnk2b;Dab1;Ddr2;Elmo2;Emx2;Fgf13;Golph3;Gpc4;Hmgb1;Itga4;Itgbl1;Nck2;Nsmf;Phldb2;Plekhg5;Prkca;Ptgs2;Rps6kb1;Sh3rf1;Smoc2;Src;Srgap3;Zeb2	0.0416917398498075
+100	GO:0007155	0.0127528717433494	1.72762825526677	14.8124342265037	24	958	cell adhesion	Bcl6;Cdh1;Cdh11;Cdsn;Chrd;Clstn2;Dab1;Elmo2;Fat4;Golph3;Gpc4;Itga4;Itga8;Itgbl1;Mfap4;Mmp24;Msln;Nck2;Phldb2;Piezo1;Prkca;S100a10;Smoc2;Src	0.0416917398498075
+101	GO:0030104	0.0129830400215047	6.67626559060895	0.494778596292399	3	32	water homeostasis	Aqp11;Cdh1;Grhl1	0.0416917398498075
+102	GO:0031344	0.0131126769705049	1.84510510815477	10.916052780701	19	706	regulation of cell projection organization	Arsb;Cdc42ep5;Cpeb1;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Islr2;Mark4;Nefl;Nsmf;Numbl;Ppfia2;Rab3ip;Src;Wrap73;Ythdf1;Zeb2	0.0416917398498075
+103	GO:0032989	0.0131126769705049	1.84510510815477	10.916052780701	19	706	cellular component morphogenesis	Bhlhe22;Cdh11;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Islr2;Itga4;Nefl;Nsmf;Numbl;Phldb2;Ppfia2;Prkca;Src;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+104	GO:0048812	0.0133980035764789	1.909463342653	9.41625516068971	17	609	neuron projection morphogenesis	Bhlhe22;Cdh11;Cpne6;Dab1;Dvl3;Ephb2;Fgf13;Islr2;Itga4;Nefl;Nsmf;Numbl;Ppfia2;Prkca;Unc5a;Ythdf1;Zeb2	0.0416917398498075
+105	GO:0070304	0.0134828679894094	3.25459459459459	1.94819072290132	6	126	positive regulation of stress-activated protein kinase signaling cascade	Dvl3;Gadd45b;Map3k12;Mfhas1;Sh3rf1;Zeb2	0.0416917398498075
+106	GO:0099536	0.0135868199643536	1.87007295320715	10.1893467173966	18	659	synaptic signaling	Btbd9;Cdh1;Cdh11;Clstn2;Cpeb1;Csnk2b;Ephb2;Erc1;Gabra5;Htr3a;Kcnn2;Nsmf;Plekhg5;Ppfia2;Prkca;Ptgs2;Src;Ythdf1	0.0416917398498075
+107	GO:0022610	0.0138425670582955	1.71370754771011	14.9206670444426	24	965	biological adhesion	Bcl6;Cdh1;Cdh11;Cdsn;Chrd;Clstn2;Dab1;Elmo2;Fat4;Golph3;Gpc4;Itga4;Itga8;Itgbl1;Mfap4;Mmp24;Msln;Nck2;Phldb2;Piezo1;Prkca;S100a10;Smoc2;Src	0.0416917398498075
+108	GO:0006636	0.0141217759045565	6.4531914893617	0.510240427426536	3	33	unsaturated fatty acid biosynthetic process	Gstm2;Ptges2;Ptgs2	0.0416917398498075
+109	GO:0032270	0.0141684602602269	1.64489730594825	18.2140370760139	28	1178	positive regulation of cellular protein metabolic process	Asph;Bcl6;Ccbe1;Cpeb1;Csnk2b;Dab1;Ddr2;Dvl3;Eif6;Gadd45b;Glyr1;Hmgb1;Hspa1b;Map3k12;Mas1;Mfhas1;Nck2;Nsmf;Pla2g5;Prkca;Ptgs2;Rps6kb1;Sgta;Sh3rf1;Src;Tnks1bp1;Ythdf1;Zeb2	0.0416917398498075
+110	GO:0021978	0.0141754732091936	12.8592592592593	0.185541973609649	2	12	telencephalon regionalization	Bhlhe22;Emx2	0.0416917398498075
+111	GO:0023019	0.0141754732091936	12.8592592592593	0.185541973609649	2	12	signal transduction involved in regulation of gene expression	Neurod1;Parp1	0.0416917398498075
+112	GO:0031915	0.0141754732091936	12.8592592592593	0.185541973609649	2	12	positive regulation of synaptic plasticity	Ephb2;Ptgs2	0.0416917398498075
+113	GO:0034143	0.0141754732091936	12.8592592592593	0.185541973609649	2	12	regulation of toll-like receptor 4 signaling pathway	Hmgb1;Mfhas1	0.0416917398498075
+114	GO:0045898	0.0141754732091936	12.8592592592593	0.185541973609649	2	12	regulation of RNA polymerase II transcription preinitiation complex assembly	Psmc3;Thra	0.0416917398498075
+115	GO:0047484	0.0141754732091936	12.8592592592593	0.185541973609649	2	12	regulation of response to osmotic stress	Prkca;Ptgs2	0.0416917398498075
+116	GO:0060575	0.0141754732091936	12.8592592592593	0.185541973609649	2	12	intestinal epithelial cell differentiation	Cdh1;Src	0.0416917398498075
+117	GO:0043154	0.0145669868791295	4.54264002251618	0.943171699182385	4	61	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	Hspa1b;Ptgs2;Sh3rf1;Src	0.0416917398498075
+118	GO:0048168	0.0145669868791295	4.54264002251618	0.943171699182385	4	61	regulation of neuronal synaptic plasticity	Cpeb1;Ephb2;Kcnn2;Nsmf	0.0416917398498075
+119	GO:0001545	0.0154618311341375	Inf	0.0154618311341375	1	1	primary ovarian follicle growth	Src	0.0416917398498075
+120	GO:0002436	0.0154618311341375	Inf	0.0154618311341375	1	1	immune complex clearance by monocytes and macrophages	Pla2g5	0.0416917398498075
+121	GO:0003221	0.0154618311341375	Inf	0.0154618311341375	1	1	right ventricular cardiac muscle tissue morphogenesis	Zfpm2	0.0416917398498075
+122	GO:0003366	0.0154618311341375	Inf	0.0154618311341375	1	1	cell-matrix adhesion involved in ameboidal cell migration	Itga4	0.0416917398498075
+123	GO:0006294	0.0154618311341375	Inf	0.0154618311341375	1	1	nucleotide-excision repair, preincision complex assembly	Gtf2h5	0.0416917398498075
+124	GO:0006480	0.0154618311341375	Inf	0.0154618311341375	1	1	N-terminal protein amino acid methylation	Ntmt1	0.0416917398498075
+125	GO:0010335	0.0154618311341375	Inf	0.0154618311341375	1	1	response to non-ionic osmotic stress	Ptgs2	0.0416917398498075
+126	GO:0017055	0.0154618311341375	Inf	0.0154618311341375	1	1	negative regulation of RNA polymerase II transcription preinitiation complex assembly	Thra	0.0416917398498075
+127	GO:0018011	0.0154618311341375	Inf	0.0154618311341375	1	1	N-terminal peptidyl-alanine methylation	Ntmt1	0.0416917398498075
+128	GO:0018012	0.0154618311341375	Inf	0.0154618311341375	1	1	N-terminal peptidyl-alanine trimethylation	Ntmt1	0.0416917398498075
+129	GO:0018013	0.0154618311341375	Inf	0.0154618311341375	1	1	N-terminal peptidyl-glycine methylation	Ntmt1	0.0416917398498075
+130	GO:0018016	0.0154618311341375	Inf	0.0154618311341375	1	1	N-terminal peptidyl-proline dimethylation	Ntmt1	0.0416917398498075
+131	GO:0018194	0.0154618311341375	Inf	0.0154618311341375	1	1	peptidyl-alanine modification	Ntmt1	0.0416917398498075
+132	GO:0018424	0.0154618311341375	Inf	0.0154618311341375	1	1	peptidyl-glutamic acid poly-ADP-ribosylation	Parp1	0.0416917398498075
+133	GO:0021767	0.0154618311341375	Inf	0.0154618311341375	1	1	mammillary body development	Zeb2	0.0416917398498075
+134	GO:0021813	0.0154618311341375	Inf	0.0154618311341375	1	1	cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	Dab1	0.0416917398498075
+135	GO:0021919	0.0154618311341375	Inf	0.0154618311341375	1	1	BMP signaling pathway involved in spinal cord dorsal/ventral patterning	Chrd	0.0416917398498075
+136	GO:0035568	0.0154618311341375	Inf	0.0154618311341375	1	1	N-terminal peptidyl-proline methylation	Ntmt1	0.0416917398498075
+137	GO:0035570	0.0154618311341375	Inf	0.0154618311341375	1	1	N-terminal peptidyl-serine methylation	Ntmt1	0.0416917398498075
+138	GO:0035572	0.0154618311341375	Inf	0.0154618311341375	1	1	N-terminal peptidyl-serine dimethylation	Ntmt1	0.0416917398498075
+139	GO:0035573	0.0154618311341375	Inf	0.0154618311341375	1	1	N-terminal peptidyl-serine trimethylation	Ntmt1	0.0416917398498075
+140	GO:0035847	0.0154618311341375	Inf	0.0154618311341375	1	1	uterine epithelium development	Cdh1	0.0416917398498075
+141	GO:0043496	0.0154618311341375	Inf	0.0154618311341375	1	1	regulation of protein homodimerization activity	Itga4	0.0416917398498075
+142	GO:0048388	0.0154618311341375	Inf	0.0154618311341375	1	1	endosomal lumen acidification	Aqp11	0.0416917398498075
+143	GO:0048874	0.0154618311341375	Inf	0.0154618311341375	1	1	host-mediated regulation of intestinal microbiota composition	Napepld	0.0416917398498075
+144	GO:0061373	0.0154618311341375	Inf	0.0154618311341375	1	1	mammillary axonal complex development	Zeb2	0.0416917398498075
+145	GO:0061580	0.0154618311341375	Inf	0.0154618311341375	1	1	colon epithelial cell migration	Arsb	0.0416917398498075
+146	GO:0070124	0.0154618311341375	Inf	0.0154618311341375	1	1	mitochondrial translational initiation	Mtif3	0.0416917398498075
+147	GO:0071471	0.0154618311341375	Inf	0.0154618311341375	1	1	cellular response to non-ionic osmotic stress	Ptgs2	0.0416917398498075
+148	GO:0080170	0.0154618311341375	Inf	0.0154618311341375	1	1	hydrogen peroxide transmembrane transport	Aqp11	0.0416917398498075
+149	GO:0090074	0.0154618311341375	Inf	0.0154618311341375	1	1	negative regulation of protein homodimerization activity	Itga4	0.0416917398498075
+150	GO:0090264	0.0154618311341375	Inf	0.0154618311341375	1	1	regulation of immune complex clearance by monocytes and macrophages	Pla2g5	0.0416917398498075
+151	GO:0090265	0.0154618311341375	Inf	0.0154618311341375	1	1	positive regulation of immune complex clearance by monocytes and macrophages	Pla2g5	0.0416917398498075
+152	GO:0090362	0.0154618311341375	Inf	0.0154618311341375	1	1	positive regulation of platelet-derived growth factor production	Ptgs2	0.0416917398498075
+153	GO:0099703	0.0154618311341375	Inf	0.0154618311341375	1	1	induction of synaptic vesicle exocytosis by positive regulation of presynaptic cytosolic calcium ion concentration	Erc1	0.0416917398498075
+154	GO:0106028	0.0154618311341375	Inf	0.0154618311341375	1	1	neuron projection retraction	Ephb2	0.0416917398498075
+155	GO:1901685	0.0154618311341375	Inf	0.0154618311341375	1	1	glutathione derivative metabolic process	Gstm2	0.0416917398498075
+156	GO:1901687	0.0154618311341375	Inf	0.0154618311341375	1	1	glutathione derivative biosynthetic process	Gstm2	0.0416917398498075
+157	GO:1902440	0.0154618311341375	Inf	0.0154618311341375	1	1	protein localization to mitotic spindle pole body	Wrap73	0.0416917398498075
+158	GO:1903056	0.0154618311341375	Inf	0.0154618311341375	1	1	regulation of melanosome organization	Zeb2	0.0416917398498075
+159	GO:1904762	0.0154618311341375	Inf	0.0154618311341375	1	1	positive regulation of myofibroblast differentiation	Parp1	0.0416917398498075
+160	GO:1905036	0.0154618311341375	Inf	0.0154618311341375	1	1	positive regulation of antifungal innate immune response	Pla2g5	0.0416917398498075
+161	GO:1905164	0.0154618311341375	Inf	0.0154618311341375	1	1	positive regulation of phagosome maturation	Pla2g5	0.0416917398498075
+162	GO:1990758	0.0154618311341375	Inf	0.0154618311341375	1	1	mitotic sister chromatid biorientation	Bod1	0.0416917398498075
+163	GO:1990771	0.0154618311341375	Inf	0.0154618311341375	1	1	clathrin-dependent extracellular exosome endocytosis	Itga4	0.0416917398498075
+164	GO:0051128	0.0155195006811931	1.49860075265139	31.2019752286894	43	2018	regulation of cellular component organization	Arhgap21;Arsb;Asph;Bcl6;Btbd9;Cdc42ep5;Clstn2;Cpeb1;Cpne6;Dab1;Ddr2;Dgkd;Dvl3;Ehd3;Eif4ebp1;Ephb2;Fgf13;Glyr1;Golph3;Gpc4;Hspa1b;Islr2;Mark4;Nck2;Nefl;Nsmf;Numbl;Osgin2;Parp1;Phldb2;Piezo1;Pla2g5;Ppfia2;Prkca;Psmc3;Rab3ip;S100a10;Src;Thra;Tmed9;Wrap73;Ythdf1;Zeb2	0.0416917398498075
+165	GO:0019637	0.0156266562786461	1.83974854159452	10.343965028738	18	669	organophosphate metabolic process	Acot3;Acot5;Ak4;Dgkd;Eif6;Hsd11b1;Mas1;Mpc2;Napepld;Parp1;Pcyt1b;Pdha1;Pfkl;Pla2g5;Plch2;Plppr2;Serinc2;Src	0.0416917398498075
+166	GO:0007611	0.0157510712661516	2.44605809128631	3.86545778353436	9	250	learning or memory	Btbd9;Ephb2;Fgf13;Gabra5;Itga8;Prkca;Ptgs2;Thra;Ythdf1	0.0416917398498075
+167	GO:0009987	0.0158424598884764	1.77616207516804	166.044604549502	176	10739	cellular process	2700081O15Rik;Acot3;Acot5;Agap3;Ak4;Akt1s1;Alas1;Anxa11;Ap2a2;Aqp11;Arhgap21;Arhgef25;Arl5b;Armc6;Arsb;Asph;Atg101;Bcl6;Bhlha9;Bhlhe22;Bmyc;Bod1;Brf2;Btbd9;Car15;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Cdh11;Cdsn;Chrd;Chst8;Clstn2;Cox6a1;Cpeb1;Cpne4;Cpne6;Csnk2b;Dab1;Ddr2;Ddx54;Dgkd;Dlk2;Dock9;Dvl3;Echdc2;Ehd3;Eif4e2;Eif4ebp1;Eif6;Elmo2;Emx2;Ephb2;Erc1;Evc2;Fam220a;Fat4;Fgf13;Gabra5;Gadd45b;Gcat;Glp2r;Glyr1;Gna11;Golph3;Gpc4;Gpr22;Grhl1;Grp;Gstm2;Gtf2h5;Hars;Hmgb1;Hsd11b1;Hspa1b;Htr3a;Ifitm2;Islr2;Itga4;Itga8;Itgbl1;Jazf1;Kcnab2;Kcnn2;Kctd6;Lrp3;Lsm8;Lurap1l;Lypla2;Map3k12;Map4k3;Mark4;Mas1;Mcur1;Med10;Mfap4;Mfhas1;Mgp;Mindy3;Mmp24;Mpc2;Mphosph10;Mrpl20;Msln;Mtif3;Mturn;Napepld;Nck2;Nefl;Neurod1;Nfu1;Npas1;Npr3;Nsmf;Ntmt1;Numbl;Olfml2b;Osgin2;Panx2;Parp1;Pcyt1b;Pdha1;Pfkl;Phldb2;Piezo1;Pla2g5;Plch2;Plekhg5;Plppr2;Polr2e;Ppfia2;Prkca;Psmc3;Psmd8;Ptges2;Ptgs2;Rab3ip;Rab5if;Rnf146;Rps6kb1;S100a10;Serinc2;Sgta;Sh3bp5;Sh3rf1;Slc16a2;Slc26a4;Slc35g1;Smoc2;Src;Srgap3;Srl;Strip1;Tbata;Thra;Tmed9;Tmem109;Tmem74;Tnks1bp1;Topbp1;Trafd1;Trim2;Tubb4b;Unc5a;Vgll3;Wdr73;Wrap73;Ythdf1;Zbtb8b;Zdhhc16;Zdhhc23;Zeb2;Zfpm2;Znhit3;Zranb3	0.0416917398498075
+168	GO:0043583	0.0160174623935233	2.81803542673108	2.61304946166923	7	169	ear development	Cdh1;Dvl3;Ephb2;Fat4;Gabra5;Itga8;Neurod1	0.0416917398498075
+169	GO:0070374	0.0160698653790798	3.12311351351351	2.02549987857201	6	131	positive regulation of ERK1 and ERK2 cascade	Hmgb1;Map3k12;Mfhas1;Pla2g5;Prkca;Src	0.0416917398498075
+170	GO:1901655	0.0162380525746805	4.38792712770779	0.97409536145066	4	63	cellular response to ketone	Eif4ebp1;Golph3;Rps6kb1;Src	0.0416917398498075
+171	GO:0080134	0.0162866368293038	1.7049489043405	14.3331174613454	23	927	regulation of response to stress	Aqp11;Bcl6;Cdc42se1;Dvl3;Ephb2;Gadd45b;Hmgb1;Map3k12;Mas1;Mfhas1;Napepld;Nck2;Parp1;Phldb2;Pla2g5;Prkca;Ptgs2;Rnf146;Sgta;Sh3rf1;Smoc2;Trafd1;Zeb2	0.0416917398498075
+172	GO:2000026	0.016381246443752	1.53983891204922	25.2027847486441	36	1630	regulation of multicellular organismal development	Ap2a2;Arsb;Bcl6;Ccbe1;Cdh1;Clstn2;Cpeb1;Cpne6;Dab1;Ddr2;Dvl3;Eif6;Ephb2;Fat4;Fgf13;Gpc4;Grhl1;Hmgb1;Islr2;Mgp;Mturn;Nefl;Neurod1;Nsmf;Numbl;Phldb2;Ppfia2;Prkca;Ptgs2;Rps6kb1;Sh3rf1;Smoc2;Src;Ythdf1;Zeb2;Zfpm2	0.0416917398498075
+173	GO:0043542	0.0164941382660795	2.80051347025874	2.62851129280337	7	170	endothelial cell migration	Ccbe1;Csnk2b;Hmgb1;Plekhg5;Prkca;Ptgs2;Smoc2	0.0416917398498075
+174	GO:0021987	0.0165235094342323	3.56581590452558	1.4843357888772	5	96	cerebral cortex development	Bhlhe22;Dab1;Emx2;Fat4;Fgf13	0.0416917398498075
+175	GO:0002115	0.0165840476291457	11.6892736892737	0.201003804743787	2	13	store-operated calcium entry	Orai3;Srl	0.0416917398498075
+176	GO:0010575	0.0165840476291457	11.6892736892737	0.201003804743787	2	13	positive regulation of vascular endothelial growth factor production	Ccbe1;Ptgs2	0.0416917398498075
+177	GO:0055057	0.0165840476291457	11.6892736892737	0.201003804743787	2	13	neuroblast division	Fgf13;Numbl	0.0416917398498075
+178	GO:0060065	0.0165840476291457	11.6892736892737	0.201003804743787	2	13	uterus development	Cdh1;Src	0.0416917398498075
+179	GO:1905939	0.0165840476291457	11.6892736892737	0.201003804743787	2	13	regulation of gonad development	Src;Zfpm2	0.0416917398498075
+180	GO:0031098	0.016846337594219	2.57535869067808	3.262446369303	8	211	stress-activated protein kinase signaling cascade	Cdc42ep5;Cdc42se1;Dvl3;Gadd45b;Map3k12;Mfhas1;Sh3rf1;Zeb2	0.0420905259477133
+181	GO:0006637	0.0171168138854034	4.3144385026738	0.989557192584797	4	64	acyl-CoA metabolic process	Acot3;Acot5;Mpc2;Pdha1	0.0420905259477133
+182	GO:0035383	0.0171168138854034	4.3144385026738	0.989557192584797	4	64	thioester metabolic process	Acot3;Acot5;Mpc2;Pdha1	0.0420905259477133
+183	GO:2000117	0.0171168138854034	4.3144385026738	0.989557192584797	4	64	negative regulation of cysteine-type endopeptidase activity	Hspa1b;Ptgs2;Sh3rf1;Src	0.0420905259477133
+184	GO:0051179	0.0177123193664874	1.3814271532247	67.5682020561807	82	4370	localization	Aagab;Agap3;Anxa11;Ap2a2;Aqp11;Arhgap21;Arl5b;Arsb;Asph;Bcl6;Bod1;Btbd9;Ccbe1;Cdc42se1;Cdh1;Chrd;Cpeb1;Csnk2b;Dab1;Ddr2;Dgkd;Dvl3;Ehd3;Eif6;Elmo2;Emx2;Ephb2;Erc1;Fgf13;Gabra5;Golph3;Gpc4;Hmgb1;Hspa1b;Htr3a;Itga4;Itga8;Itgbl1;Kcnab2;Kcnn2;Mark4;Mcur1;Mfhas1;Mpc2;Nck2;Nefl;Neurod1;Npr3;Nsmf;Orai3;Panx2;Parp1;Pfkl;Phldb2;Piezo1;Pla2g5;Plekhg5;Ppfia2;Prelid3b;Prkca;Ptges2;Ptgs2;Rab3ip;Rps6kb1;S100a10;Sgta;Sh3rf1;Slc16a2;Slc26a4;Slc35g1;Smoc2;Src;Srgap3;Srl;Thra;Tmed9;Tmem109;Wrap73;Ythdf1;Zdhhc23;Zeb2;Znhit3	0.043318172363692
+185	GO:0007229	0.0189621599874214	4.17457305502846	1.02048085485307	4	66	integrin-mediated signaling pathway	Itga4;Itga8;Itgbl1;Src	0.0446581226332724
+186	GO:0045785	0.01905070092285	2.24589419511088	4.66947300250951	10	302	positive regulation of cell adhesion	Bcl6;Cdh1;Chrd;Itga4;Nck2;Piezo1;Prkca;S100a10;Smoc2;Src	0.0446581226332724
+187	GO:0042221	0.0190638178215267	1.43200464309059	40.5873067271108	53	2625	response to chemical	Agap3;Ak4;Akt1s1;Anxa11;Aqp11;Arsb;Asph;Brf2;Ccbe1;Cdh1;Chrd;Cpeb1;Cpne4;Cpne6;Csnk2b;Dgkd;Eif4ebp1;Eif6;Elmo2;Emx2;Ephb2;Fat4;Gdap2;Gna11;Golph3;Gstm2;Hmgb1;Hspa1b;Ifitm2;Itga4;Itga8;Map4k3;Mpc2;Nck2;Nefl;Neurod1;Nsmf;Numbl;Parp1;Pfkl;Plekhg5;Prkca;Ptgs2;Rnf146;Rps6kb1;S100a10;Sgta;Smoc2;Src;Thra;Trim2;Unc5a;Ythdf1	0.0446581226332724
+188	GO:0033631	0.0191533725960479	10.7142857142857	0.216465635877924	2	14	cell-cell adhesion mediated by integrin	Itga4;Piezo1	0.0446581226332724
+189	GO:0034123	0.0191533725960479	10.7142857142857	0.216465635877924	2	14	positive regulation of toll-like receptor signaling pathway	Hmgb1;Mfhas1	0.0446581226332724
+190	GO:0048070	0.0191533725960479	10.7142857142857	0.216465635877924	2	14	regulation of developmental pigmentation	Gna11;Zeb2	0.0446581226332724
+191	GO:0051645	0.0191533725960479	10.7142857142857	0.216465635877924	2	14	Golgi localization	Arhgap21;Dab1	0.0446581226332724
+192	GO:0090336	0.0191533725960479	10.7142857142857	0.216465635877924	2	14	positive regulation of brown fat cell differentiation	Napepld;Ptgs2	0.0446581226332724
+193	GO:1904293	0.0191533725960479	10.7142857142857	0.216465635877924	2	14	negative regulation of ERAD pathway	Aqp11;Sgta	0.0446581226332724
+194	GO:0006631	0.0193632517302517	2.35621978021978	4.0046142637416	9	259	fatty acid metabolic process	Acot3;Acot5;Echdc2;Eif6;Gstm2;Lypla2;Pla2g5;Ptges2;Ptgs2	0.0447538675032343
+195	GO:0032787	0.0194818258705729	2.06733159788236	6.09196146685016	12	394	monocarboxylic acid metabolic process	Acot3;Acot5;Echdc2;Eif6;Gstm2;Lypla2;Mpc2;Pdha1;Pfkl;Pla2g5;Ptges2;Ptgs2	0.0447538675032343
+196	GO:0016043	0.019492795623631	1.37165946433208	69.7483202460941	84	4511	cellular component organization	Agap3;Akt1s1;Aqp11;Arhgap21;Arsb;Asph;Atg101;Bcl6;Bhlhe22;Bod1;Brf2;Btbd9;Cdc42ep5;Cdh1;Cdh11;Clstn2;Cpeb1;Cpne6;Dab1;Ddr2;Dgkd;Dvl3;Ehd3;Eif4ebp1;Eif6;Elmo2;Ephb2;Erc1;Fat4;Fgf13;Glyr1;Golph3;Gpc4;Gpr22;Grhl1;Gtf2h5;Hmgb1;Hspa1b;Islr2;Itga4;Itga8;Kctd6;Map3k12;Mark4;Mfap4;Mgp;Mmp24;Mrpl20;Mtif3;Nck2;Nefl;Nfu1;Nsmf;Ntmt1;Numbl;Olfml2b;Osgin2;Parp1;Pfkl;Phldb2;Piezo1;Pla2g5;Ppfia2;Prkca;Psmc3;Rab3ip;Rab5if;S100a10;Sgta;Smoc2;Src;Strip1;Thra;Tmed9;Topbp1;Trafd1;Tubb4b;Unc5a;Wdr73;Wrap73;Ythdf1;Zeb2;Znhit3;Zranb3	0.0447538675032343
+197	GO:0023051	0.0198025895187055	1.43524428455379	38.8555816400874	51	2513	regulation of signaling	Akt1s1;Arhgef25;Asph;Bcl6;Btbd9;Ccbe1;Cdc42se1;Cdh1;Cdh11;Chrd;Clstn2;Cpeb1;Csnk2b;Dab1;Dgkd;Dlk2;Dvl3;Ehd3;Ephb2;Erc1;Gadd45b;Golph3;Gpc4;Grp;Hmgb1;Itga8;Kcnn2;Kctd6;Lurap1l;Map3k12;Mas1;Mfhas1;Mpc2;Nck2;Neurod1;Nsmf;Parp1;Pfkl;Pla2g5;Plekhg5;Ppfia2;Prkca;Ptgs2;Rnf146;Rps6kb1;Sh3rf1;Smoc2;Src;Thra;Ythdf1;Zeb2	0.0452343415401901
+198	GO:1901888	0.020115854006652	2.68363171355499	2.73674411074233	7	177	regulation of cell junction assembly	Clstn2;Ephb2;Gpc4;Phldb2;Prkca;S100a10;Src	0.0456348078496794
+199	GO:0034249	0.0202412434363125	2.95577395577396	2.13373269651097	6	138	negative regulation of cellular amide metabolic process	Cpeb1;Eif4e2;Eif4ebp1;Eif6;Prkca;Ythdf1	0.0456348078496794
+200	GO:0090102	0.0206448064808095	5.5290273556231	0.587549583097223	3	38	cochlea development	Cdh1;Dvl3;Gabra5	0.0456348078496794
+201	GO:0032872	0.0206751397826383	2.66771548436308	2.75220594187647	7	178	regulation of stress-activated MAPK cascade	Cdc42se1;Dvl3;Gadd45b;Map3k12;Mfhas1;Sh3rf1;Zeb2	0.0456348078496794
+202	GO:0035556	0.0209440428556191	1.48769894972199	28.2642273132033	39	1828	intracellular signal transduction	Akt1s1;Arhgef25;Asph;Bcl6;Cdc42ep5;Cdc42se1;Dab1;Dgkd;Dock9;Dvl3;Eif4ebp1;Ephb2;Erc1;Fat4;Fgf13;Gadd45b;Golph3;Hmgb1;Lurap1l;Map3k12;Map4k3;Mark4;Mas1;Mfhas1;Nck2;Neurod1;Npr3;Parp1;Pla2g5;Plch2;Plekhg5;Prkca;Ptgs2;Rps6kb1;Sh3bp5;Sh3rf1;Src;Tmem109;Zeb2	0.0456348078496794
+203	GO:0007267	0.0209947020014841	1.58530909616268	18.8170484902453	28	1217	cell-cell signaling	Btbd9;Cdh1;Cdh11;Clstn2;Cpeb1;Csnk2b;Dvl3;Ephb2;Erc1;Gabra5;Gpc4;Htr3a;Kcnn2;Mpc2;Neurod1;Nsmf;Panx2;Pfkl;Plekhg5;Ppfia2;Prkca;Ptgs2;Rnf146;Slc16a2;Src;Thra;Ythdf1;Zeb2	0.0456348078496794
+204	GO:0051270	0.021189288845221	1.7208395666168	12.2766939205051	20	794	regulation of cellular component movement	Arsb;Bcl6;Ccbe1;Cdh1;Chrd;Cpeb1;Csnk2b;Ddr2;Fgf13;Hmgb1;Itga4;Nsmf;Phldb2;Prkca;Ptgs2;Rps6kb1;Smoc2;Src;Srgap3;Ythdf1	0.0456348078496794
+205	GO:0021542	0.021877955543613	9.88929588929589	0.231927467012062	2	15	dentate gyrus development	Emx2;Neurod1	0.0456348078496794
+206	GO:0061564	0.0222641517847675	1.96420472116277	6.94236217922772	13	449	axon development	Bhlhe22;Cdh11;Dab1;Ephb2;Fgf13;Islr2;Itga4;Nefl;Numbl;Prkca;Unc5a;Ythdf1;Zeb2	0.0456348078496794
+207	GO:0032868	0.0224179445749192	2.62106446776612	2.79859143527888	7	181	response to insulin	Cpeb1;Eif4ebp1;Eif6;Parp1;Prkca;Rps6kb1;Src	0.0456348078496794
+208	GO:0070302	0.0224179445749192	2.62106446776612	2.79859143527888	7	181	regulation of stress-activated protein kinase signaling cascade	Cdc42se1;Dvl3;Gadd45b;Map3k12;Mfhas1;Sh3rf1;Zeb2	0.0456348078496794
+209	GO:0051962	0.0232981504164465	1.85584780388151	8.48854529264146	15	549	positive regulation of nervous system development	Arsb;Bcl6;Clstn2;Cpeb1;Cpne6;Dab1;Dvl3;Ephb2;Islr2;Nefl;Neurod1;Nsmf;Numbl;Prkca;Zeb2	0.0456348078496794
+210	GO:0010632	0.0236348536335525	2.59084733201581	2.82951509754715	7	183	regulation of epithelial cell migration	Arsb;Ccbe1;Csnk2b;Prkca;Ptgs2;Smoc2;Src	0.0456348078496794
+211	GO:1901570	0.0236440699867345	5.22929844738355	0.618473245365498	3	40	fatty acid derivative biosynthetic process	Pla2g5;Ptges2;Ptgs2	0.0456348078496794
+212	GO:0046697	0.0247524337726008	9.18216175359033	0.247389298146199	2	16	decidualization	Cdh1;Ptgs2	0.0456348078496794
+213	GO:0051900	0.0247524337726008	9.18216175359033	0.247389298146199	2	16	regulation of mitochondrial depolarization	Parp1;Src	0.0456348078496794
+214	GO:0071498	0.0247524337726008	9.18216175359033	0.247389298146199	2	16	cellular response to fluid shear stress	Ptgs2;Src	0.0456348078496794
+215	GO:0071549	0.0247524337726008	9.18216175359033	0.247389298146199	2	16	cellular response to dexamethasone stimulus	Eif4ebp1;Rps6kb1	0.0456348078496794
+216	GO:1903055	0.0247524337726008	9.18216175359033	0.247389298146199	2	16	positive regulation of extracellular matrix organization	Ddr2;Phldb2	0.0456348078496794
+217	GO:2001169	0.0247524337726008	9.18216175359033	0.247389298146199	2	16	regulation of ATP biosynthetic process	Ak4;Parp1	0.0456348078496794
+218	GO:0030030	0.0251916486205275	1.53570956597255	20.811624706549	30	1346	cell projection organization	Arsb;Bhlhe22;Cdc42ep5;Cdh11;Cpeb1;Cpne6;Dab1;Dvl3;Ehd3;Ephb2;Fat4;Fgf13;Golph3;Gpr22;Islr2;Itga4;Itga8;Mark4;Nck2;Nefl;Nsmf;Numbl;Ppfia2;Prkca;Rab3ip;Src;Unc5a;Wrap73;Ythdf1;Zeb2	0.0456348078496794
+219	GO:0072583	0.025227482895518	5.09126539753639	0.633935076499636	3	41	clathrin-dependent endocytosis	Ap2a2;Dgkd;Itga4	0.0456348078496794
+220	GO:0071840	0.0257827367345411	1.34644306418219	72.4541406945681	86	4686	cellular component organization or biogenesis	Agap3;Akt1s1;Aqp11;Arhgap21;Arsb;Asph;Atg101;Bcl6;Bhlhe22;Bod1;Brf2;Btbd9;Cdc42ep5;Cdh1;Cdh11;Clstn2;Cpeb1;Cpne6;Dab1;Ddr2;Ddx54;Dgkd;Dvl3;Ehd3;Eif4ebp1;Eif6;Elmo2;Ephb2;Erc1;Fat4;Fgf13;Glyr1;Golph3;Gpc4;Gpr22;Grhl1;Gtf2h5;Hmgb1;Hspa1b;Islr2;Itga4;Itga8;Kctd6;Map3k12;Mark4;Mfap4;Mgp;Mmp24;Mphosph10;Mrpl20;Mtif3;Nck2;Nefl;Nfu1;Nsmf;Ntmt1;Numbl;Olfml2b;Osgin2;Parp1;Pfkl;Phldb2;Piezo1;Pla2g5;Ppfia2;Prkca;Psmc3;Rab3ip;Rab5if;S100a10;Sgta;Smoc2;Src;Strip1;Thra;Tmed9;Topbp1;Trafd1;Tubb4b;Unc5a;Wdr73;Wrap73;Ythdf1;Zeb2;Znhit3;Zranb3	0.0456348078496794
+221	GO:0045727	0.0260276359666119	3.14724919093851	1.66987776248685	5	108	positive regulation of translation	Cpeb1;Eif6;Nck2;Rps6kb1;Ythdf1	0.0456348078496794
+222	GO:0048667	0.0260829710811223	1.82719724924522	8.61223994171456	15	557	cell morphogenesis involved in neuron differentiation	Bhlhe22;Cdh11;Dab1;Ephb2;Fgf13;Islr2;Itga4;Nefl;Nsmf;Numbl;Ppfia2;Prkca;Unc5a;Ythdf1;Zeb2	0.0456348078496794
+223	GO:0018209	0.0261252179108298	2.22864635364635	4.22107989961953	9	273	peptidyl-serine modification	Map3k12;Nck2;Ntmt1;Parp1;Prkca;Ptgs2;Rps6kb1;Src;Tnks1bp1	0.0456348078496794
+224	GO:0060322	0.0264478657946254	1.8236752887996	8.6277017728487	15	558	head development	Arsb;Asph;Bhlhe22;Chrd;Dab1;Dvl3;Emx2;Ephb2;Fat4;Fgf13;Itga4;Neurod1;Numbl;Src;Zeb2	0.0456348078496794
+225	GO:0031346	0.026878951542774	1.966201813901	6.38573625839877	12	413	positive regulation of cell projection organization	Arsb;Cdc42ep5;Cpeb1;Cpne6;Dvl3;Islr2;Mark4;Nefl;Numbl;Src;Wrap73;Zeb2	0.0456348078496794
+226	GO:0010646	0.027114674342433	1.40570270661456	38.6545778353436	50	2500	regulation of cell communication	Akt1s1;Arhgef25;Asph;Bcl6;Btbd9;Ccbe1;Cdc42se1;Cdh1;Cdh11;Chrd;Clstn2;Cpeb1;Csnk2b;Dab1;Dgkd;Dlk2;Dvl3;Ephb2;Erc1;Gadd45b;Golph3;Gpc4;Grp;Hmgb1;Itga8;Kcnn2;Kctd6;Lurap1l;Map3k12;Mas1;Mfhas1;Mpc2;Nck2;Neurod1;Nsmf;Parp1;Pfkl;Pla2g5;Plekhg5;Ppfia2;Prkca;Ptgs2;Rnf146;Rps6kb1;Sh3rf1;Smoc2;Src;Thra;Ythdf1;Zeb2	0.0456348078496794
+227	GO:0031589	0.0272124954857644	2.21151780550277	4.2520035618878	9	275	cell-substrate adhesion	Bcl6;Itga4;Itga8;Itgbl1;Msln;Phldb2;S100a10;Smoc2;Src	0.0456348078496794
+228	GO:1900182	0.0275478455287279	3.69503437738732	1.14417550392617	4	74	positive regulation of protein localization to nucleus	Cdh1;Parp1;Ptgs2;Src	0.0456348078496794
+229	GO:0006085	0.027771571782446	8.56931216931217	0.262851129280337	2	17	acetyl-CoA biosynthetic process	Mpc2;Pdha1	0.0456348078496794
+230	GO:0010574	0.027771571782446	8.56931216931217	0.262851129280337	2	17	regulation of vascular endothelial growth factor production	Ccbe1;Ptgs2	0.0456348078496794
+231	GO:0010954	0.027771571782446	8.56931216931217	0.262851129280337	2	17	positive regulation of protein processing	Ccbe1;Src	0.0456348078496794
+232	GO:0045652	0.027771571782446	8.56931216931217	0.262851129280337	2	17	regulation of megakaryocyte differentiation	Eif6;Mturn	0.0456348078496794
+233	GO:0050901	0.027771571782446	8.56931216931217	0.262851129280337	2	17	leukocyte tethering or rolling	Golph3;Itga4	0.0456348078496794
+234	GO:0050926	0.027771571782446	8.56931216931217	0.262851129280337	2	17	regulation of positive chemotaxis	Hmgb1;Prkca	0.0456348078496794
+235	GO:0050927	0.027771571782446	8.56931216931217	0.262851129280337	2	17	positive regulation of positive chemotaxis	Hmgb1;Prkca	0.0456348078496794
+236	GO:0051895	0.027771571782446	8.56931216931217	0.262851129280337	2	17	negative regulation of focal adhesion assembly	Phldb2;Src	0.0456348078496794
+237	GO:0150118	0.027771571782446	8.56931216931217	0.262851129280337	2	17	negative regulation of cell-substrate junction organization	Phldb2;Src	0.0456348078496794
+238	GO:1900746	0.027771571782446	8.56931216931217	0.262851129280337	2	17	regulation of vascular endothelial growth factor signaling pathway	Ccbe1;Smoc2	0.0456348078496794
+239	GO:2000679	0.027771571782446	8.56931216931217	0.262851129280337	2	17	positive regulation of transcription regulatory region DNA binding	Neurod1;Parp1	0.0456348078496794
+240	GO:0007610	0.0279457223680305	1.80971622070799	8.68954909738525	15	562	behavior	Btbd9;Dab1;Ephb2;Fgf13;Gabra5;Grp;Itga8;Napepld;Npas1;Parp1;Prkca;Ptgs2;Rps6kb1;Thra;Ythdf1	0.0456348078496794
+241	GO:0050890	0.0283314050538463	2.19464490733147	4.28292722415608	9	277	cognition	Btbd9;Ephb2;Fgf13;Gabra5;Itga8;Prkca;Ptgs2;Thra;Ythdf1	0.0456348078496794
+242	GO:0051247	0.0283535430136536	1.53925928159057	19.3118270865377	28	1249	positive regulation of protein metabolic process	Asph;Bcl6;Ccbe1;Cpeb1;Csnk2b;Dab1;Ddr2;Dvl3;Eif6;Gadd45b;Glyr1;Hmgb1;Hspa1b;Map3k12;Mas1;Mfhas1;Nck2;Nsmf;Pla2g5;Prkca;Ptgs2;Rps6kb1;Sgta;Sh3rf1;Src;Tnks1bp1;Ythdf1;Zeb2	0.0456348078496794
+243	GO:0010463	0.0285615500768399	4.83590425531915	0.664858738767911	3	43	mesenchymal cell proliferation	Chrd;Fat4;Hmgb1	0.0456348078496794
+244	GO:0080135	0.0291099200091842	1.79938016528926	8.73593459078766	15	565	regulation of cellular response to stress	Aqp11;Bcl6;Cdc42se1;Dvl3;Gadd45b;Hmgb1;Map3k12;Mfhas1;Nck2;Parp1;Ptgs2;Rnf146;Sgta;Sh3rf1;Zeb2	0.0456348078496794
+245	GO:0001173	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	DNA-templated transcriptional start site selection	Brf2	0.0456348078496794
+246	GO:0001174	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	transcriptional start site selection at RNA polymerase II promoter	Brf2	0.0456348078496794
+247	GO:0002192	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	IRES-dependent translational initiation of linear mRNA	Eif4ebp1	0.0456348078496794
+248	GO:0002270	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	plasmacytoid dendritic cell activation	Hmgb1	0.0456348078496794
+249	GO:0003312	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	pancreatic PP cell differentiation	Neurod1	0.0456348078496794
+250	GO:0003326	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	pancreatic A cell fate commitment	Neurod1	0.0456348078496794
+251	GO:0003329	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	pancreatic PP cell fate commitment	Neurod1	0.0456348078496794
+252	GO:0006427	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	histidyl-tRNA aminoacylation	Hars	0.0456348078496794
+253	GO:0006713	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	glucocorticoid catabolic process	Hsd11b1	0.0456348078496794
+254	GO:0006850	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	mitochondrial pyruvate transmembrane transport	Mpc2	0.0456348078496794
+255	GO:0014873	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	response to muscle activity involved in regulation of muscle adaptation	Srl	0.0456348078496794
+256	GO:0018312	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	peptidyl-serine ADP-ribosylation	Parp1	0.0456348078496794
+257	GO:0021577	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	hindbrain structural organization	Dab1	0.0456348078496794
+258	GO:0021589	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	cerebellum structural organization	Dab1	0.0456348078496794
+259	GO:0021812	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	neuronal-glial interaction involved in cerebral cortex radial glia guided migration	Dab1	0.0456348078496794
+260	GO:0032764	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	negative regulation of mast cell cytokine production	Bcl6	0.0456348078496794
+261	GO:0033577	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	protein glycosylation in endoplasmic reticulum	Aqp11	0.0456348078496794
+262	GO:0034136	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	negative regulation of toll-like receptor 2 signaling pathway	Mfhas1	0.0456348078496794
+263	GO:0035408	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	histone H3-T6 phosphorylation	Prkca	0.0456348078496794
+264	GO:0035846	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	oviduct epithelium development	Cdh1	0.0456348078496794
+265	GO:0036292	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	DNA rewinding	Zranb3	0.0456348078496794
+266	GO:0042264	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	peptidyl-aspartic acid hydroxylation	Asph	0.0456348078496794
+267	GO:0043380	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	regulation of memory T cell differentiation	Bcl6	0.0456348078496794
+268	GO:0043921	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	modulation by host of viral transcription	Psmc3	0.0456348078496794
+269	GO:0045819	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of glycogen catabolic process	Hmgb1	0.0456348078496794
+270	GO:0048294	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	negative regulation of isotype switching to IgE isotypes	Bcl6	0.0456348078496794
+271	GO:0051389	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	inactivation of MAPKK activity	Ephb2	0.0456348078496794
+272	GO:0051597	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	response to methylmercury	Arsb	0.0456348078496794
+273	GO:0060730	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	regulation of intestinal epithelial structure maintenance	Neurod1	0.0456348078496794
+274	GO:0061582	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	intestinal epithelial cell migration	Arsb	0.0456348078496794
+275	GO:0071393	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	cellular response to progesterone stimulus	Src	0.0456348078496794
+276	GO:0071988	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	protein localization to spindle pole body	Wrap73	0.0456348078496794
+277	GO:0072137	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	condensed mesenchymal cell proliferation	Fat4	0.0456348078496794
+278	GO:0086098	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	angiotensin-activated signaling pathway involved in heart process	Src	0.0456348078496794
+279	GO:0090164	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	asymmetric Golgi ribbon formation	Golph3	0.0456348078496794
+280	GO:0090360	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	platelet-derived growth factor production	Ptgs2	0.0456348078496794
+281	GO:0090361	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	regulation of platelet-derived growth factor production	Ptgs2	0.0456348078496794
+282	GO:0097324	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	melanocyte migration	Zeb2	0.0456348078496794
+283	GO:0097476	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	spinal cord motor neuron migration	Dab1	0.0456348078496794
+284	GO:0097477	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	lateral motor column neuron migration	Dab1	0.0456348078496794
+285	GO:0099533	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of presynaptic cytosolic calcium concentration	Erc1	0.0456348078496794
+286	GO:0099557	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	trans-synaptic signaling by trans-synaptic complex, modulating synaptic transmission	Ephb2	0.0456348078496794
+287	GO:0110017	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	cap-independent translational initiation of linear mRNA	Eif4ebp1	0.0456348078496794
+288	GO:0140039	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	cell-cell adhesion in response to extracellular stimulus	Itga4	0.0456348078496794
+289	GO:1902219	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	Ptgs2	0.0456348078496794
+290	GO:1902748	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of lens fiber cell differentiation	Zeb2	0.0456348078496794
+291	GO:1903027	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	regulation of opsonization	Pla2g5	0.0456348078496794
+292	GO:1903028	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of opsonization	Pla2g5	0.0456348078496794
+293	GO:1903516	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	regulation of single strand break repair	Parp1	0.0456348078496794
+294	GO:1903518	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of single strand break repair	Parp1	0.0456348078496794
+295	GO:1903646	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of chaperone-mediated protein folding	Sgta	0.0456348078496794
+296	GO:1905034	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	regulation of antifungal innate immune response	Pla2g5	0.0456348078496794
+297	GO:2000195	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	negative regulation of female gonad development	Zfpm2	0.0456348078496794
+298	GO:2000196	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of female gonad development	Src	0.0456348078496794
+299	GO:2000386	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of ovarian follicle development	Src	0.0456348078496794
+300	GO:2000707	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of dense core granule biogenesis	Prkca	0.0456348078496794
+301	GO:2000721	0.0306858264590552	64.0052631578947	0.0309236622682749	1	2	positive regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation	Itga8	0.0456348078496794
+302	GO:0021871	0.0309302586536716	8.03306878306878	0.278312960414474	2	18	forebrain regionalization	Bhlhe22;Emx2	0.0456348078496794
+303	GO:0033561	0.0309302586536716	8.03306878306878	0.278312960414474	2	18	regulation of water loss via skin	Cdh1;Grhl1	0.0456348078496794
+304	GO:0051882	0.0309302586536716	8.03306878306878	0.278312960414474	2	18	mitochondrial depolarization	Parp1;Src	0.0456348078496794
+305	GO:1902547	0.0309302586536716	8.03306878306878	0.278312960414474	2	18	regulation of cellular response to vascular endothelial growth factor stimulus	Ccbe1;Smoc2	0.0456348078496794
+306	GO:0071229	0.0312769927820958	3.5423045930701	1.19056099732858	4	77	cellular response to acid chemical	Cdh1;Cpeb1;Nsmf;S100a10	0.0459955776207292
+307	GO:0050770	0.0319017603371173	2.42304579093432	3.0150570711568	7	195	regulation of axonogenesis	Dab1;Ephb2;Fgf13;Islr2;Nefl;Ythdf1;Zeb2	0.0467615379534292
+308	GO:0010676	0.032117697696221	4.6048632218845	0.695782401036185	3	45	positive regulation of cellular carbohydrate metabolic process	Hmgb1;Mas1;Src	0.0467733461595452
+309	GO:0043470	0.032117697696221	4.6048632218845	0.695782401036185	3	45	regulation of carbohydrate catabolic process	Eif6;Hmgb1;Hsd11b1	0.0467733461595452
+310	GO:0032869	0.0324009350593312	2.6327246165084	2.38112199465717	6	154	cellular response to insulin stimulus	Cpeb1;Eif4ebp1;Parp1;Prkca;Rps6kb1;Src	0.0468443421095243
+311	GO:0033865	0.0325828424006247	3.49414655297008	1.20602282846272	4	78	nucleoside bisphosphate metabolic process	Acot3;Acot5;Mpc2;Pdha1	0.0468443421095243
+312	GO:0033875	0.0325828424006247	3.49414655297008	1.20602282846272	4	78	ribonucleoside bisphosphate metabolic process	Acot3;Acot5;Mpc2;Pdha1	0.0468443421095243
+313	GO:0034032	0.0325828424006247	3.49414655297008	1.20602282846272	4	78	purine nucleoside bisphosphate metabolic process	Acot3;Acot5;Mpc2;Pdha1	0.0468443421095243
+314	GO:0045598	0.0329128728845583	2.94525904203324	1.77811058042581	5	115	regulation of fat cell differentiation	Dlk2;Lrp3;Napepld;Ptgs2;Zfpm2	0.0470183898350833
+315	GO:1900180	0.0329128728845583	2.94525904203324	1.77811058042581	5	115	regulation of protein localization to nucleus	Cdh1;Mfhas1;Parp1;Ptgs2;Src	0.0470183898350833
+316	GO:1903573	0.0339785671473919	4.49740227610094	0.711244232170323	3	46	negative regulation of response to endoplasmic reticulum stress	Aqp11;Nck2;Sgta	0.0475570032059048
+317	GO:0010573	0.0342235054801687	7.5599128540305	0.293774791548612	2	19	vascular endothelial growth factor production	Ccbe1;Ptgs2	0.0475570032059048
+318	GO:0045948	0.0342235054801687	7.5599128540305	0.293774791548612	2	19	positive regulation of translational initiation	Rps6kb1;Ythdf1	0.0475570032059048
+319	GO:0071548	0.0342235054801687	7.5599128540305	0.293774791548612	2	19	response to dexamethasone	Eif4ebp1;Rps6kb1	0.0475570032059048
+320	GO:0099170	0.0342235054801687	7.5599128540305	0.293774791548612	2	19	postsynaptic modulation of chemical synaptic transmission	Cdh1;Csnk2b	0.0475570032059048
+321	GO:1903319	0.0342235054801687	7.5599128540305	0.293774791548612	2	19	positive regulation of protein maturation	Ccbe1;Src	0.0475570032059048
+322	GO:0030154	0.034585777958719	1.36221152466309	44.7620011333279	56	2895	cell differentiation	Alas1;Ap2a2;Armc6;Arsb;Bcl6;Bhlhe22;Cdh1;Cdh11;Chrd;Cpeb1;Cpne6;Dab1;Ddr2;Dlk2;Dvl3;Eif6;Emx2;Ephb2;Fat4;Fgf13;Gabra5;Gadd45b;Gna11;Grhl1;Hmgb1;Islr2;Itga4;Itga8;Kcnab2;Lrp3;Mfhas1;Mgp;Mmp24;Mturn;Napepld;Nck2;Nefl;Neurod1;Nsmf;Numbl;Parp1;Phldb2;Pla2g5;Ppfia2;Prkca;Ptgs2;Rps6kb1;S100a10;Sh3rf1;Src;Tbata;Thra;Unc5a;Ythdf1;Zeb2;Zfpm2	0.0475570032059048
+323	GO:0032502	0.0346464071953599	1.32555042613636	66.5322593701935	79	4303	developmental process	Alas1;Ap2a2;Aqp11;Armc6;Arsb;Asph;Bcl6;Bhlha9;Bhlhe22;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Cdh11;Cdsn;Cenpu;Chrd;Clstn2;Cpeb1;Cpne6;Csnk2b;Dab1;Ddr2;Dlk2;Dvl3;Eif4e2;Eif6;Emx2;Ephb2;Fat4;Fgf13;Gabra5;Gadd45b;Gna11;Gpc4;Grhl1;Hmgb1;Hsd11b1;Islr2;Itga4;Itga8;Kcnab2;Lrp3;Mark4;Mas1;Med10;Mfhas1;Mgp;Mmp24;Mturn;Napepld;Nck2;Nefl;Neurod1;Npr3;Nsmf;Numbl;Parp1;Pcyt1b;Phldb2;Pla2g5;Ppfia2;Prkca;Psmc3;Ptgs2;Rps6kb1;S100a10;Sh3rf1;Slc26a4;Smoc2;Src;Strip1;Tbata;Thra;Unc5a;Ythdf1;Zdhhc16;Zeb2;Zfpm2	0.0475570032059048
+324	GO:0010647	0.0349148486992093	1.49700624411941	20.5333117461345	29	1328	positive regulation of cell communication	Ccbe1;Clstn2;Csnk2b;Dgkd;Dvl3;Ephb2;Erc1;Gadd45b;Golph3;Grp;Hmgb1;Itga8;Lurap1l;Map3k12;Mas1;Mfhas1;Mpc2;Nck2;Parp1;Pla2g5;Prkca;Ptgs2;Rnf146;Sh3rf1;Smoc2;Src;Thra;Ythdf1;Zeb2	0.0475570032059048
+325	GO:0034329	0.036074502942022	2.0058977053181	5.19517526107019	10	336	cell junction assembly	Cdh1;Cdh11;Clstn2;Ephb2;Fgf13;Gpc4;Phldb2;Prkca;S100a10;Src	0.0475570032059048
+326	GO:0009411	0.0361800489712109	2.86635265010943	1.82449607382822	5	118	response to UV	Agap3;Map4k3;Mfap4;Parp1;Zranb3	0.0475570032059048
+327	GO:0030198	0.0366837547975228	2.34692962796952	3.10782805796163	7	201	extracellular matrix organization	Ddr2;Itga8;Mfap4;Mmp24;Olfml2b;Phldb2;Smoc2	0.0475570032059048
+328	GO:0043062	0.0366837547975228	2.34692962796952	3.10782805796163	7	201	extracellular structure organization	Ddr2;Itga8;Mfap4;Mmp24;Olfml2b;Phldb2;Smoc2	0.0475570032059048
+329	GO:0033554	0.0367161384904653	1.47154151943463	22.3578078199628	31	1446	cellular response to stress	Agap3;Ak4;Aqp11;Bcl6;Brf2;Cdc42ep5;Cdc42se1;Cpeb1;Dvl3;Eif4ebp1;Gadd45b;Gstm2;Gtf2h5;Hmgb1;Hspa1b;Map3k12;Mfhas1;Nck2;Nefl;Parp1;Ptgs2;Rnf146;Sgta;Sh3rf1;Src;Tmem109;Tnks1bp1;Topbp1;Zdhhc16;Zeb2;Zranb3	0.0475570032059048
+330	GO:0023056	0.0370379183783263	1.48802298980962	20.6415445640735	29	1335	positive regulation of signaling	Ccbe1;Clstn2;Csnk2b;Dgkd;Dvl3;Ephb2;Erc1;Gadd45b;Golph3;Grp;Hmgb1;Itga8;Lurap1l;Map3k12;Mas1;Mfhas1;Mpc2;Nck2;Parp1;Pla2g5;Prkca;Ptgs2;Rnf146;Sh3rf1;Smoc2;Src;Thra;Ythdf1;Zeb2	0.0475570032059048
+331	GO:0003148	0.0376464428504385	7.13932980599647	0.309236622682749	2	20	outflow tract septum morphogenesis	Dvl3;Zfpm2	0.0475570032059048
+332	GO:0050951	0.0376464428504385	7.13932980599647	0.309236622682749	2	20	sensory perception of temperature stimulus	Btbd9;Mmp24	0.0475570032059048
+333	GO:0090335	0.0376464428504385	7.13932980599647	0.309236622682749	2	20	regulation of brown fat cell differentiation	Napepld;Ptgs2	0.0475570032059048
+334	GO:0048666	0.0376981274304289	1.54175737242968	16.4050028333198	24	1061	neuron development	Arsb;Bhlhe22;Cdh11;Cpeb1;Cpne6;Dab1;Dvl3;Ephb2;Fat4;Fgf13;Gabra5;Islr2;Itga4;Mturn;Nck2;Nefl;Neurod1;Nsmf;Numbl;Ppfia2;Prkca;Unc5a;Ythdf1;Zeb2	0.0475570032059048
+335	GO:0010812	0.0378646152019152	4.2968085106383	0.742167894438598	3	48	negative regulation of cell-substrate adhesion	Bcl6;Phldb2;Src	0.0475570032059048
+336	GO:0034332	0.0378646152019152	4.2968085106383	0.742167894438598	3	48	adherens junction organization	Cdh1;Cdh11;Numbl	0.0475570032059048
+337	GO:0019220	0.0378979088932062	1.49423195467755	19.8220675139642	28	1282	regulation of phosphate metabolic process	Ak4;Akt1s1;Bod1;Cdc42se1;Csnk2b;Dab1;Ddr2;Dvl3;Eif6;Ephb2;Gadd45b;Hmgb1;Hsd11b1;Map3k12;Mas1;Mfhas1;Mphosph10;Nck2;Nsmf;Parp1;Pla2g5;Prkca;Ptgs2;Sh3bp5;Sh3rf1;Src;Tnks1bp1;Zeb2	0.0475570032059048
+338	GO:0051174	0.038221073792566	1.49290445579645	19.8375293450984	28	1283	regulation of phosphorus metabolic process	Ak4;Akt1s1;Bod1;Cdc42se1;Csnk2b;Dab1;Ddr2;Dvl3;Eif6;Ephb2;Gadd45b;Hmgb1;Hsd11b1;Map3k12;Mas1;Mfhas1;Mphosph10;Nck2;Nsmf;Parp1;Pla2g5;Prkca;Ptgs2;Sh3bp5;Sh3rf1;Src;Tnks1bp1;Zeb2	0.0475570032059048
+339	GO:0010634	0.0384654700766987	2.81603553062179	1.85541973609649	5	120	positive regulation of epithelial cell migration	Ccbe1;Prkca;Ptgs2;Smoc2;Src	0.0475570032059048
+340	GO:0007416	0.0389538677020485	2.51236268526591	2.48935481259613	6	161	synapse assembly	Cdh1;Clstn2;Ephb2;Fgf13;Gpc4;Prkca	0.0475570032059048
+341	GO:0070372	0.0392433738461824	2.310610240565	3.15421355136404	7	204	regulation of ERK1 and ERK2 cascade	Ephb2;Hmgb1;Map3k12;Mfhas1;Pla2g5;Prkca;Src	0.0475570032059048
+342	GO:0009653	0.0393103508222322	1.3996812615333	31.3565935400308	41	2028	anatomical structure morphogenesis	Asph;Bcl6;Bhlhe22;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Cdh11;Cdsn;Chrd;Cpne6;Csnk2b;Dab1;Dvl3;Emx2;Ephb2;Fat4;Fgf13;Hmgb1;Islr2;Itga4;Itga8;Mgp;Nefl;Neurod1;Nsmf;Numbl;Phldb2;Ppfia2;Prkca;Ptgs2;S100a10;Slc26a4;Smoc2;Src;Strip1;Thra;Unc5a;Ythdf1;Zeb2;Zfpm2	0.0475570032059048
+343	GO:1903034	0.0396405946260347	2.79152762328513	1.87088156723063	5	121	regulation of response to wounding	Ephb2;Hmgb1;Phldb2;Prkca;Smoc2	0.0475570032059048
+344	GO:0030099	0.0406144134733246	2.04608109660374	4.57670201570469	9	296	myeloid cell differentiation	Alas1;Bcl6;Eif6;Hmgb1;Mfhas1;Mturn;Prkca;Src;Thra	0.0475570032059048
+345	GO:0044089	0.0406626900325439	1.83793661567378	6.80320569902048	12	440	positive regulation of cellular component biogenesis	Cdc42ep5;Clstn2;Ephb2;Mark4;Nck2;Phldb2;Piezo1;Prkca;Psmc3;S100a10;Src;Wrap73	0.0475570032059048
+346	GO:0016485	0.0409702534783828	2.47994491306593	2.52027847486441	6	163	protein processing	Asph;Ccbe1;Cdh1;Chst8;Parp1;Src	0.0475570032059048
+347	GO:0001516	0.0411943183769085	6.7630186577555	0.324698453816887	2	21	prostaglandin biosynthetic process	Ptges2;Ptgs2	0.0475570032059048
+348	GO:0046426	0.0411943183769085	6.7630186577555	0.324698453816887	2	21	negative regulation of receptor signaling pathway via JAK-STAT	Dab1;Neurod1	0.0475570032059048
+349	GO:0046457	0.0411943183769085	6.7630186577555	0.324698453816887	2	21	prostanoid biosynthetic process	Ptges2;Ptgs2	0.0475570032059048
+350	GO:0062208	0.0411943183769085	6.7630186577555	0.324698453816887	2	21	positive regulation of pattern recognition receptor signaling pathway	Hmgb1;Mfhas1	0.0475570032059048
+351	GO:0051272	0.0412536123786002	1.83349611282572	6.81866753015462	12	441	positive regulation of cellular component movement	Bcl6;Ccbe1;Cpeb1;Ddr2;Hmgb1;Itga4;Nsmf;Prkca;Ptgs2;Rps6kb1;Smoc2;Src	0.0475570032059048
+352	GO:0030334	0.0414889207729029	1.65228615441911	10.7614344693597	17	696	regulation of cell migration	Arsb;Ccbe1;Cdh1;Chrd;Cpeb1;Csnk2b;Ddr2;Hmgb1;Itga4;Nsmf;Phldb2;Prkca;Ptgs2;Rps6kb1;Smoc2;Src;Srgap3	0.0475570032059048
+353	GO:0070613	0.0419676479105111	4.11328655500226	0.773091556706873	3	50	regulation of protein processing	Ccbe1;Cdh1;Src	0.0475570032059048
+354	GO:0030324	0.0420027908766366	2.46404379062607	2.53574030599854	6	164	lung development	Ccbe1;Hmgb1;Hsd11b1;Mgp;Thra;Zfpm2	0.0475570032059048
+355	GO:0009150	0.0421511162171899	2.13526829705276	3.89638144580264	8	252	purine ribonucleotide metabolic process	Acot3;Acot5;Ak4;Eif6;Mpc2;Parp1;Pdha1;Pfkl	0.0475570032059048
+356	GO:0051239	0.0422211135965801	1.3705493709838	36.0569902048085	46	2332	regulation of multicellular organismal process	Ap2a2;Arsb;Bcl6;Ccbe1;Cdh1;Chrd;Clstn2;Cpeb1;Cpne6;Csnk2b;Dab1;Ddr2;Dvl3;Ehd3;Eif6;Ephb2;Fat4;Fgf13;Gpc4;Grhl1;Hmgb1;Islr2;Kcnn2;Lrp3;Mgp;Mturn;Nefl;Neurod1;Npr3;Nsmf;Numbl;Panx2;Parp1;Phldb2;Ppfia2;Prkca;Ptgs2;Rps6kb1;Sh3rf1;Smoc2;Src;Srl;Thra;Ythdf1;Zeb2;Zfpm2	0.0475570032059048
+357	GO:0010595	0.0426099113360697	3.19033471974648	1.31425564640168	4	85	positive regulation of endothelial cell migration	Ccbe1;Prkca;Ptgs2;Smoc2	0.0475570032059048
+358	GO:1901564	0.0428447820254461	1.30457860280103	69.0989233384603	81	4469	organonitrogen compound metabolic process	Acot3;Acot5;Adam11;Agap3;Ak4;Akt1s1;Alas1;Aqp11;Asph;Bcl6;Bod1;Btbd9;Ccbe1;Cdc42ep5;Cdc42se1;Cdh1;Chst8;Cpeb1;Csnk2b;Dab1;Ddr2;Dvl3;Eif4e2;Eif4ebp1;Eif6;Ephb2;Erc1;Fam220a;Fgf13;Gadd45b;Gcat;Glyr1;Golph3;Gstm2;Gtf2h5;Hars;Hmgb1;Hspa1b;Kctd6;Lypla2;Map3k12;Map4k3;Mark4;Mas1;Med10;Mfhas1;Mindy3;Mmp24;Mpc2;Mrpl20;Mtif3;Napepld;Nck2;Nfu1;Nsmf;Ntmt1;Numbl;Parp1;Pdha1;Pfkl;Pla2g5;Plekhg5;Prkca;Prss35;Psmc3;Psmd8;Ptgs2;Rnf146;Rps6kb1;Serinc2;Sgta;Sh3bp5;Sh3rf1;Slc16a2;Src;Tnks1bp1;Trim2;Ythdf1;Zdhhc16;Zdhhc23;Zeb2	0.0475570032059048
+359	GO:0016042	0.0437646292650539	2.25247524752475	3.23152270703473	7	209	lipid catabolic process	Echdc2;Hsd11b1;Lypla2;Napepld;Pla2g5;Plch2;Thra	0.0475570032059048
+360	GO:0045861	0.0437646292650539	2.25247524752475	3.23152270703473	7	209	negative regulation of proteolysis	Aqp11;Cdh1;Hspa1b;Ptgs2;Sgta;Sh3rf1;Src	0.0475570032059048
+361	GO:0033627	0.0440996334234448	4.02726063829787	0.78855338784101	3	51	cell adhesion mediated by integrin	Itga4;Itgbl1;Piezo1	0.0475570032059048
+362	GO:0051384	0.0440996334234448	4.02726063829787	0.78855338784101	3	51	response to glucocorticoid	Eif4ebp1;Hmgb1;Rps6kb1	0.0475570032059048
+363	GO:0007156	0.0441692920639948	3.15116734055041	1.32971747753582	4	86	homophilic cell adhesion via plasma membrane adhesion molecules	Cdh1;Cdh11;Clstn2;Fat4	0.0475570032059048
+364	GO:1901654	0.0441692920639948	3.15116734055041	1.32971747753582	4	86	response to ketone	Eif4ebp1;Golph3;Rps6kb1;Src	0.0475570032059048
+365	GO:0007169	0.044298874895256	1.81160054578689	6.89597668582531	12	446	transmembrane receptor protein tyrosine kinase signaling pathway	Akt1s1;Ccbe1;Ddr2;Dgkd;Eif4ebp1;Ephb2;Fat4;Nck2;Prkca;Rps6kb1;Smoc2;Src	0.0475570032059048
+366	GO:0048871	0.044757781744415	1.92685669583924	5.39617906581397	10	349	multicellular organismal homeostasis	Btbd9;Cdh1;Grhl1;Napepld;Neurod1;Npr3;Prkca;Ptgs2;Src;Thra	0.0475570032059048
+367	GO:0034142	0.0448624942724502	6.42433862433862	0.340160284951024	2	22	toll-like receptor 4 signaling pathway	Hmgb1;Mfhas1	0.0475570032059048
+368	GO:0045724	0.0448624942724502	6.42433862433862	0.340160284951024	2	22	positive regulation of cilium assembly	Mark4;Wrap73	0.0475570032059048
+369	GO:1904357	0.0448624942724502	6.42433862433862	0.340160284951024	2	22	negative regulation of telomere maintenance via telomere lengthening	Parp1;Src	0.0475570032059048
+370	GO:1904893	0.0448624942724502	6.42433862433862	0.340160284951024	2	22	negative regulation of receptor signaling pathway via STAT	Dab1;Neurod1	0.0475570032059048
+371	GO:0050769	0.04490721632045	1.76216454638314	7.68453007366632	13	497	positive regulation of neurogenesis	Arsb;Bcl6;Cpeb1;Cpne6;Dab1;Dvl3;Ephb2;Islr2;Nefl;Neurod1;Nsmf;Numbl;Zeb2	0.0475570032059048
+372	GO:0030323	0.0451984453633907	2.4175256001343	2.58212579940096	6	167	respiratory tube development	Ccbe1;Hmgb1;Hsd11b1;Mgp;Thra;Zfpm2	0.0475570032059048
+373	GO:0072657	0.0455057222899529	1.75838063245685	7.69999190480045	13	498	protein localization to membrane	Aqp11;Arl5b;Cdh1;Ehd3;Ephb2;Fgf13;Golph3;Gpc4;Itga4;Rab3ip;S100a10;Sgta;Zdhhc23	0.0475570032059048
+374	GO:0002159	0.0456756254345483	32	0.0463854934024124	1	3	desmosome assembly	Prkca	0.0475570032059048
+375	GO:0003195	0.0456756254345483	32	0.0463854934024124	1	3	tricuspid valve formation	Zfpm2	0.0475570032059048
+376	GO:0006567	0.0456756254345483	32	0.0463854934024124	1	3	threonine catabolic process	Gcat	0.0475570032059048
+377	GO:0008050	0.0456756254345483	32	0.0463854934024124	1	3	female courtship behavior	Thra	0.0475570032059048
+378	GO:0008228	0.0456756254345483	32	0.0463854934024124	1	3	opsonization	Pla2g5	0.0475570032059048
+379	GO:0010360	0.0456756254345483	32	0.0463854934024124	1	3	negative regulation of anion channel activity	Prkca	0.0475570032059048
+380	GO:0018197	0.0456756254345483	32	0.0463854934024124	1	3	peptidyl-aspartic acid modification	Asph	0.0475570032059048
+381	GO:0019371	0.0456756254345483	32	0.0463854934024124	1	3	cyclooxygenase pathway	Ptgs2	0.0475570032059048
+382	GO:0021849	0.0456756254345483	32	0.0463854934024124	1	3	neuroblast division in subventricular zone	Numbl	0.0475570032059048
+383	GO:0030592	0.0456756254345483	32	0.0463854934024124	1	3	DNA ADP-ribosylation	Parp1	0.0475570032059048
+384	GO:0031134	0.0456756254345483	32	0.0463854934024124	1	3	sister chromatid biorientation	Bod1	0.0475570032059048
+385	GO:0032227	0.0456756254345483	32	0.0463854934024124	1	3	negative regulation of synaptic transmission, dopaminergic	Ptgs2	0.0475570032059048
+386	GO:0033693	0.0456756254345483	32	0.0463854934024124	1	3	neurofilament bundle assembly	Nefl	0.0475570032059048
+387	GO:0043379	0.0456756254345483	32	0.0463854934024124	1	3	memory T cell differentiation	Bcl6	0.0475570032059048
+388	GO:0043456	0.0456756254345483	32	0.0463854934024124	1	3	regulation of pentose-phosphate shunt	Hsd11b1	0.0475570032059048
+389	GO:0045105	0.0456756254345483	32	0.0463854934024124	1	3	intermediate filament polymerization or depolymerization	Nefl	0.0475570032059048
+390	GO:0045196	0.0456756254345483	32	0.0463854934024124	1	3	establishment or maintenance of neuroblast polarity	Fgf13	0.0475570032059048
+391	GO:0045200	0.0456756254345483	32	0.0463854934024124	1	3	establishment of neuroblast polarity	Fgf13	0.0475570032059048
+392	GO:0045925	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of female receptivity	Thra	0.0475570032059048
+393	GO:0048023	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of melanin biosynthetic process	Zeb2	0.0475570032059048
+394	GO:0048289	0.0456756254345483	32	0.0463854934024124	1	3	isotype switching to IgE isotypes	Bcl6	0.0475570032059048
+395	GO:0048293	0.0456756254345483	32	0.0463854934024124	1	3	regulation of isotype switching to IgE isotypes	Bcl6	0.0475570032059048
+396	GO:0051410	0.0456756254345483	32	0.0463854934024124	1	3	detoxification of nitrogen compound	Gstm2	0.0475570032059048
+397	GO:0051684	0.0456756254345483	32	0.0463854934024124	1	3	maintenance of Golgi location	Arhgap21	0.0475570032059048
+398	GO:0051902	0.0456756254345483	32	0.0463854934024124	1	3	negative regulation of mitochondrial depolarization	Src	0.0475570032059048
+399	GO:0060040	0.0456756254345483	32	0.0463854934024124	1	3	retinal bipolar neuron differentiation	Bhlhe22	0.0475570032059048
+400	GO:0061760	0.0456756254345483	32	0.0463854934024124	1	3	antifungal innate immune response	Pla2g5	0.0475570032059048
+401	GO:0070292	0.0456756254345483	32	0.0463854934024124	1	3	N-acylphosphatidylethanolamine metabolic process	Napepld	0.0475570032059048
+402	GO:0070458	0.0456756254345483	32	0.0463854934024124	1	3	cellular detoxification of nitrogen compound	Gstm2	0.0475570032059048
+403	GO:0070460	0.0456756254345483	32	0.0463854934024124	1	3	thyroid-stimulating hormone secretion	Slc16a2	0.0475570032059048
+404	GO:0071639	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of monocyte chemotactic protein-1 production	Hmgb1	0.0475570032059048
+405	GO:0071816	0.0456756254345483	32	0.0463854934024124	1	3	tail-anchored membrane protein insertion into ER membrane	Sgta	0.0475570032059048
+406	GO:0071962	0.0456756254345483	32	0.0463854934024124	1	3	mitotic sister chromatid cohesion, centromeric	Bod1	0.0475570032059048
+407	GO:0072257	0.0456756254345483	32	0.0463854934024124	1	3	metanephric nephron tubule epithelial cell differentiation	Fat4	0.0475570032059048
+408	GO:0072307	0.0456756254345483	32	0.0463854934024124	1	3	regulation of metanephric nephron tubule epithelial cell differentiation	Fat4	0.0475570032059048
+409	GO:0072752	0.0456756254345483	32	0.0463854934024124	1	3	cellular response to rapamycin	Golph3	0.0475570032059048
+410	GO:0090715	0.0456756254345483	32	0.0463854934024124	1	3	immunological memory formation process	Bcl6	0.0475570032059048
+411	GO:0098914	0.0456756254345483	32	0.0463854934024124	1	3	membrane repolarization during atrial cardiac muscle cell action potential	Kcnn2	0.0475570032059048
+412	GO:0099575	0.0456756254345483	32	0.0463854934024124	1	3	regulation of protein catabolic process at presynapse, modulating synaptic transmission	Plekhg5	0.0475570032059048
+413	GO:1900150	0.0456756254345483	32	0.0463854934024124	1	3	regulation of defense response to fungus	Pla2g5	0.0475570032059048
+414	GO:1900378	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of secondary metabolite biosynthetic process	Zeb2	0.0475570032059048
+415	GO:1900738	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of phospholipase C-activating G protein-coupled receptor signaling pathway	Grp	0.0475570032059048
+416	GO:1901475	0.0456756254345483	32	0.0463854934024124	1	3	pyruvate transmembrane transport	Mpc2	0.0475570032059048
+417	GO:1901492	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of lymphangiogenesis	Ccbe1	0.0475570032059048
+418	GO:1902218	0.0456756254345483	32	0.0463854934024124	1	3	regulation of intrinsic apoptotic signaling pathway in response to osmotic stress	Ptgs2	0.0475570032059048
+419	GO:1902626	0.0456756254345483	32	0.0463854934024124	1	3	assembly of large subunit precursor of preribosome	Eif6	0.0475570032059048
+420	GO:1903070	0.0456756254345483	32	0.0463854934024124	1	3	negative regulation of ER-associated ubiquitin-dependent protein catabolic process	Sgta	0.0475570032059048
+421	GO:1903238	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of leukocyte tethering or rolling	Itga4	0.0475570032059048
+422	GO:1903292	0.0456756254345483	32	0.0463854934024124	1	3	protein localization to Golgi membrane	Arl5b	0.0475570032059048
+423	GO:1903898	0.0456756254345483	32	0.0463854934024124	1	3	negative regulation of PERK-mediated unfolded protein response	Nck2	0.0475570032059048
+424	GO:1904180	0.0456756254345483	32	0.0463854934024124	1	3	negative regulation of membrane depolarization	Src	0.0475570032059048
+425	GO:1904217	0.0456756254345483	32	0.0463854934024124	1	3	regulation of CDP-diacylglycerol-serine O-phosphatidyltransferase activity	Serinc2	0.0475570032059048
+426	GO:1904219	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of CDP-diacylglycerol-serine O-phosphatidyltransferase activity	Serinc2	0.0475570032059048
+427	GO:1904222	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of serine C-palmitoyltransferase activity	Serinc2	0.0475570032059048
+428	GO:1904782	0.0456756254345483	32	0.0463854934024124	1	3	negative regulation of NMDA glutamate receptor activity	Ephb2	0.0475570032059048
+429	GO:1905162	0.0456756254345483	32	0.0463854934024124	1	3	regulation of phagosome maturation	Pla2g5	0.0475570032059048
+430	GO:1905940	0.0456756254345483	32	0.0463854934024124	1	3	negative regulation of gonad development	Zfpm2	0.0475570032059048
+431	GO:2000588	0.0456756254345483	32	0.0463854934024124	1	3	positive regulation of platelet-derived growth factor receptor-beta signaling pathway	Src	0.0475570032059048
+432	GO:2000705	0.0456756254345483	32	0.0463854934024124	1	3	regulation of dense core granule biogenesis	Prkca	0.0475570032059048
+433	GO:0051053	0.0457604053070151	3.11294375362412	1.34517930866996	4	87	negative regulation of DNA metabolic process	Bcl6;Parp1;Src;Zranb3	0.0475570032059048
+434	GO:0071479	0.0462847277629874	3.94474598349978	0.804015218975148	3	52	cellular response to ionizing radiation	Gtf2h5;Tmem109;Tnks1bp1	0.0479910771736045
+435	GO:0051604	0.0466327468948512	2.21895546129374	3.27790820043714	7	212	protein maturation	Asph;Ccbe1;Cdh1;Chst8;Nfu1;Parp1;Src	0.0482407726498461
+436	GO:0042391	0.0469474452133638	1.90946980711447	5.44256455921638	10	352	regulation of membrane potential	Ehd3;Fgf13;Gabra5;Gna11;Htr3a;Kcnab2;Kcnn2;Parp1;Piezo1;Src	0.04845493198627
+437	GO:0032414	0.0473832205483642	3.07563025210084	1.3606411398041	4	88	positive regulation of ion transmembrane transporter activity	Asph;Ehd3;Ephb2;Htr3a	0.0486248869784274
+438	GO:2000116	0.0474110776974398	2.38746476537888	2.61304946166923	6	169	regulation of cysteine-type endopeptidase activity	Asph;Cdh1;Hspa1b;Ptgs2;Sh3rf1;Src	0.0486248869784274
+439	GO:0040012	0.0474362786300658	1.59906331930387	11.7664534930786	18	761	regulation of locomotion	Arsb;Ccbe1;Cdh1;Chrd;Cpeb1;Csnk2b;Ddr2;Hmgb1;Itga4;Nsmf;Phldb2;Prkca;Ptgs2;Rps6kb1;Smoc2;Src;Srgap3;Ythdf1	0.0486248869784274
+440	GO:0006900	0.0485224945822927	3.86553191489362	0.819477050109285	3	53	vesicle budding from membrane	Golph3;S100a10;Tmed9	0.0493038293647722
+441	GO:0031960	0.0485224945822927	3.86553191489362	0.819477050109285	3	53	response to corticosteroid	Eif4ebp1;Hmgb1;Rps6kb1	0.0493038293647722
+442	GO:1903317	0.0485224945822927	3.86553191489362	0.819477050109285	3	53	regulation of protein maturation	Ccbe1;Cdh1;Src	0.0493038293647722
+443	GO:0034405	0.0486464449732419	6.11791383219955	0.355622116085161	2	23	response to fluid shear stress	Ptgs2;Src	0.0493038293647722
+444	GO:1900745	0.0486464449732419	6.11791383219955	0.355622116085161	2	23	positive regulation of p38MAPK cascade	Gadd45b;Mfhas1	0.0493038293647722
+445	GO:0010720	0.0491837853865652	1.69902983593889	8.58131627944629	14	555	positive regulation of cell development	Arsb;Bcl6;Cpeb1;Cpne6;Dab1;Dvl3;Ephb2;Islr2;Nefl;Neurod1;Nsmf;Numbl;S100a10;Zeb2	0.0496416037338172
+446	GO:0045666	0.0492912507791357	1.83006785411366	6.24657977819153	11	404	positive regulation of neuron differentiation	Arsb;Bcl6;Cpeb1;Cpne6;Dab1;Dvl3;Islr2;Nefl;Neurod1;Numbl;Zeb2	0.0496416037338172
+447	GO:0120036	0.0493106597089251	1.45277600206089	20.3168461102566	28	1314	plasma membrane bounded cell projection organization	Arsb;Bhlhe22;Cdc42ep5;Cdh11;Cpeb1;Cpne6;Dab1;Dvl3;Ehd3;Ephb2;Fat4;Fgf13;Golph3;Islr2;Itga4;Mark4;Nck2;Nefl;Nsmf;Numbl;Ppfia2;Prkca;Rab3ip;Src;Unc5a;Wrap73;Ythdf1;Zeb2	0.0496416037338172
+448	GO:0021953	0.0496898723054764	2.35813267813268	2.64397312393751	6	171	central nervous system neuron differentiation	Bhlhe22;Cdh11;Dvl3;Ephb2;Prkca;Zeb2	0.0498267563362856
+449	GO:0045766	0.0498267563362856	2.60969476240028	1.99457621630373	5	129	positive regulation of angiogenesis	Ccbe1;Hmgb1;Prkca;Ptgs2;Smoc2	0.0498267563362856
+450	GO:0045931	0.0498267563362856	2.60969476240028	1.99457621630373	5	129	positive regulation of mitotic cell cycle	Eif4ebp1;Hmgb1;Prkca;Rps6kb1;Smoc2	0.0498267563362856
