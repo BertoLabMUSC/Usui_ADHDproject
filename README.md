@@ -1,7 +1,7 @@
 ADHD project 
 ==========================
 
-This repository contains analysis code for the ADHD mouse model gene expression project carried out by researchers at the [Shimada Lab, MUSC](https://www.med.osaka-u.ac.jp/eng/introduction/research-5/anatomy/neuroscienceandcell) and [Berto Lab, MUSC](https://bertolab.org/).
+This repository contains analysis code for the ADHD mouse model gene expression project carried out by researchers at the [Shimada Lab, Osaka University](https://www.med.osaka-u.ac.jp/eng/introduction/research-5/anatomy/neuroscienceandcell) and [Berto Lab, MUSC](https://bertolab.org/).
 
 ## Cite this
 
